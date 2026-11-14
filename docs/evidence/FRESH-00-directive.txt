@@ -1,0 +1,41 @@
+BIBLE MASTERY — FRESH-00: ORIGINAL HTML SOURCE AUDIT AND PRESERVATION
+Status: FIRST CODEX TASK, NEW ENVIRONMENT / NEW CODEBASE
+Recommended effort: High
+
+CONTEXT AND PRIORITY
+I am starting a NEW Bible Mastery migration environment. I will supply the original working HTML/CSS/JavaScript Bible Mastery application as the primary source. I am NOT asking you to pick up an old unfinished React or Expo migration, and I am NOT asking you to rebuild the Bible quiz as a different product.
+
+The target AFTER THIS FIRST TASK is a universal React Native + Expo + TypeScript application, using React Native Web and Expo Router, with PWA/web first and Android/iOS supported by the same shared design and game logic. The old HTML/CSS appearance may be redesigned in later stages; valid features, gameplay behavior, content and personal data must be preserved. Initial public product target is Solo Quiz + online Multiplayer Quiz, but do NOT build multiplayer during migration.
+
+THIS TASK ONLY: FORENSIC AUDIT, SOURCE PRESERVATION AND SAFE CONTINUATION HANDOFF.
+
+1. Inspect the actual uploaded original HTML in full. Identify the exact file, release/version evidence and whether external scripts/assets or local user data are missing. Treat claims from earlier documents as hypotheses unless supported by source evidence.
+2. Preserve an unmodified copy under legacy/ (or an equivalent appropriate archive), calculate and record SHA-256 and byte count, and establish a local reproducible baseline. Never edit the original archived artifact. Avoid unsafe or destructive actions.
+3. Inventory actual screens and user journeys; quiz modes and Scripture Session divisions; content records and question banks; generated questions/templates; selection, shuffling, rotation, timing, scoring, answer validation and result flows; Character Study; Scripture Memorisation, custom scriptures, review schedules and backups; all storage keys and data export formats; UI assets, dependencies and accessibility behaviors. Mark each VERIFIED-IN-SOURCE, NOT-PRESENT, UNKNOWN or REQUIRES-RUNTIME-TEST. Do not infer implementations from aspirational prompts.
+4. Count content accurately and separately: authored questions, generator definitions, generator output potential where determinable, topic/category and difficulty distributions, references, invalid records and duplicates. Do not conflate generator templates with instantiated questions. Preserve biblical accuracy and distinguish identified defects from migration regressions.
+5. Historical v13/v14 notice: previous discussions document 795 v13 generator units and two authored records excluded from v14. Verify whether supplied source/older versions allow this claim to be reconciled. If not available, report UNVERIFIABLE FROM SUPPLIED SOURCE and request the exact missing artifact later; do not fabricate missing records or silently reactivate excluded content.
+6. Produce a feature parity matrix showing source location, expected behavior, relevant persisted data, migration priority, required validation and the future TypeScript module/screen expected to consume it.
+7. Identify irrecoverable localStorage/file:// or other-origin data limitations and document the need for explicit safe export/import later. Do not claim local data has been migrated.
+8. Identify pure logic extraction boundaries: canonical knowledge, verified question records, generator/selection engine, scoring/rules, memorisation, versioned taxonomy, data storage. Establish DESIGN NOTES only for future server authority, question exposure, mastery, editorial verification, game registration, four-language expansion and multiplayer. Do not implement speculative backend services.
+9. Test the original application non-destructively if an appropriate browser/test environment is available; capture honest baseline observations. No invented PASS statuses. All checks should distinguish PASS, FAIL, PARTIAL, BLOCKED and NOT RUN.
+10. Provide lightweight notes on what can be carried forward and what should be rewritten. No irreversible repository operations. If GitHub is connected and a new authorized repository/branch already exists, report its status; do not create a remote, force-push or deploy without authorization.
+
+REQUIRED OUTPUT ARTIFACTS
+- docs/SOURCE_AUDIT.md
+- docs/FEATURE_PARITY_MATRIX.md
+- docs/CONTENT_AND_GENERATOR_RECONCILIATION.md
+- docs/STORAGE_AND_BACKUP_INVENTORY.md
+- docs/ARCHITECTURE_BOUNDARIES.md
+- docs/MIGRATION_PROGRESS.md
+- legacy/original HTML plus its recorded SHA-256
+
+REPORT TO ME
+A. Actual source identification and archive/checksum evidence.
+B. Feature and data counts, unknowns, exclusions and preservation risks.
+C. Tests actually executed, exact results and limitations.
+D. Any missing source/asset/data needed before migration.
+E. Files created or modified and repository/Git status.
+F. Gate FRESH-00 = PASS / PARTIAL / FAIL / BLOCKED / NOT RUN, supported by evidence.
+G. ONE recommended next prompt, FRESH-01 Universal Expo Foundation, only if gate conditions permit.
+
+HARD STOP: DO NOT scaffold Expo, rebuild screens, rewrite quiz logic, implement multilingual content, add multiplayer, install Supabase, change game mechanics, bulk-generate questions, implement payment systems, or start other phases in this task. Stop after the audit and handoff.

@@ -1,0 +1,12 @@
+{
+  "uploadedFile": "/workspace/attachments/8bf3384e-916c-4dc8-9502-6cfabc6ebb50/Bible_Mastery_Quiz_v14_Ultra (1).html",
+  "archive": "/workspace/bible-quiz-react-EXpo/legacy/Bible_Mastery_Quiz_v14_Ultra (1).html",
+  "byteComparison": "PASS",
+  "bytes": 696719,
+  "sha256": "61903e3bdcdd89bca784fe9fcb327d16fc5068811d63fbce0bb11e41ab60e05a",
+  "archiveWritablePermissionBits": "0o0",
+  "gitBranch": "work",
+  "gitHead": "unborn",
+  "remoteRead": "PASS; git ls-remote origin returned no refs",
+  "repositoryChanges": "new docs/ and legacy/ only; untracked; no commit/push/deploy"
+}

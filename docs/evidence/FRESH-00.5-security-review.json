@@ -1,0 +1,58 @@
+{
+  "reviewedAtUTC": "2026-11-14T16:16:51.941056+00:00",
+  "scope": "Repository preservation commit candidates, excluding Git internals; no environment or credential dumps",
+  "requiredDocsPresent": [
+    "SOURCE_AUDIT.md",
+    "FEATURE_PARITY_MATRIX.md",
+    "CONTENT_AND_GENERATOR_RECONCILIATION.md",
+    "STORAGE_AND_BACKUP_INVENTORY.md",
+    "ARCHITECTURE_BOUNDARIES.md",
+    "MIGRATION_PROGRESS.md"
+  ],
+  "sourceSHA256": "61903e3bdcdd89bca784fe9fcb327d16fc5068811d63fbce0bb11e41ab60e05a",
+  "originalEvidenceUnchanged": true,
+  "preservedBaselineOutcomes": {
+    "PASS": 50,
+    "FAIL": 1
+  },
+  "credentialPatternClasses": [
+    "private_key",
+    "github_token",
+    "aws_access_key",
+    "bearer_or_jwt",
+    "credential_url",
+    "assigned_secret"
+  ],
+  "findings": [],
+  "screenshots": "Both home images visually inspected; no private browser/account/user-data content",
+  "dataClassification": "Authored public app source and synthetic audit fixture evidence; no personal export supplied",
+  "generatedArtifacts": "Reviewed audit JSON, screenshots and harnesses intentionally retained; no runtime build/cache/profile found",
+  "candidateFilesReviewed": [
+    ".gitattributes",
+    ".gitignore",
+    "docs/ARCHITECTURE_BOUNDARIES.md",
+    "docs/CONTENT_AND_GENERATOR_RECONCILIATION.md",
+    "docs/EVIDENCE_SHA256SUMS",
+    "docs/FEATURE_PARITY_MATRIX.md",
+    "docs/MIGRATION_PROGRESS.md",
+    "docs/PRESERVATION_CHECKPOINT.md",
+    "docs/SOURCE_AUDIT.md",
+    "docs/STORAGE_AND_BACKUP_INVENTORY.md",
+    "docs/evidence/FRESH-00-directive.txt",
+    "docs/evidence/FRESH-00.5-security-review.json",
+    "docs/evidence/audit-baseline.cjs",
+    "docs/evidence/audit-extended.cjs",
+    "docs/evidence/audit-static.py",
+    "docs/evidence/authored-record-audit.json",
+    "docs/evidence/content-inventory.json",
+    "docs/evidence/extended-results.json",
+    "docs/evidence/home-desktop.png",
+    "docs/evidence/home-mobile.png",
+    "docs/evidence/preservation-verification.json",
+    "docs/evidence/runtime-results.json",
+    "docs/evidence/static-inspection.json",
+    "legacy/Bible_Mastery_Quiz_v14_Ultra (1).html",
+    "legacy/SHA256SUMS"
+  ],
+  "limitations": "Pattern-based scan plus content review; not exhaustive recognition of every possible credential format."
+}

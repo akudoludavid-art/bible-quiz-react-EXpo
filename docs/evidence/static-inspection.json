@@ -1,0 +1,64 @@
+{
+  "archiveIntegrity": "PASS",
+  "sha256": "61903e3bdcdd89bca784fe9fcb327d16fc5068811d63fbce0bb11e41ab60e05a",
+  "inlineScripts": 5,
+  "inlineStyles": 1,
+  "externalMarkupResources": [],
+  "missingFragmentTargets": [],
+  "duplicateDomIds": [],
+  "sourceLines": 1217,
+  "recordFields": [
+    "bookCoverage",
+    "contextWarnings",
+    "correctOptionId",
+    "difficulty",
+    "difficultyRationale",
+    "editorialStatus",
+    "equivalenceGroup",
+    "era",
+    "eventGroup",
+    "explanation",
+    "id",
+    "knowledgePointId",
+    "legacySourceIds",
+    "options",
+    "origin",
+    "primaryCategory",
+    "provenance",
+    "questionType",
+    "references",
+    "secondaryCategories",
+    "stem",
+    "testamentScope",
+    "whyDistractorsAreWrong"
+  ],
+  "provenanceValues": [
+    {
+      "edition": "ASV (1901)",
+      "proofStatus": "passage-reviewed",
+      "revision": "59b18c5af5845728c275d5b7178ad0d024172b1f",
+      "source": "scrollmapper/bible_databases"
+    }
+  ],
+  "editorialStatuses": [
+    "approved"
+  ],
+  "questionTypes": [
+    "single-choice"
+  ],
+  "secondaryCategoryDistribution": {},
+  "recordsWithContextWarnings": 0,
+  "recordsWithLegacySourceIds": 14,
+  "uniqueKnowledgePoints": 287,
+  "uniqueEvents": 263,
+  "otherBankRequiredFieldFailures": {
+    "SCRIPTURES": [],
+    "PARABLES": [],
+    "MIRACLES": []
+  },
+  "otherBankExactDuplicateRecords": {
+    "SCRIPTURES": 0,
+    "PARABLES": 0,
+    "MIRACLES": 0
+  }
+}

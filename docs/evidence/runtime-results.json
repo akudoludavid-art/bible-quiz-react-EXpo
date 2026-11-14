@@ -1,0 +1,873 @@
+{
+  "runAt": "2026-11-14T16:00:42.499Z",
+  "browser": "156.0.8078.79",
+  "isolation": "new nonpersistent context; no original browser/user data accessed",
+  "results": [
+    {
+      "name": "Initial home renders",
+      "status": "PASS",
+      "detail": "Bible Character Challenge — Bible Mastery v14"
+    },
+    {
+      "name": "All authored records pass source validator",
+      "status": "PASS",
+      "detail": {
+        "total": 289,
+        "invalid": []
+      }
+    },
+    {
+      "name": "Authored IDs and normalized stems unique",
+      "status": "PASS",
+      "detail": []
+    },
+    {
+      "name": "ot: 20 distinct questions/events/equivalences",
+      "status": "PASS",
+      "detail": [
+        {
+          "id": "bible-q-lev-salt",
+          "event": "event:lev-salt",
+          "eq": "fact:lev-salt",
+          "scope": "OT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "bible-q-midwives",
+          "event": "event:midwives",
+          "eq": "fact:midwives",
+          "scope": "OT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "bible-q-deut-succession",
+          "event": "event:deut-succession",
+          "eq": "fact:deut-succession",
+          "scope": "OT",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "bible-q-daniel-names",
+          "event": "event:daniel-names",
+          "eq": "fact:daniel-names",
+          "scope": "OT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "bible-q-hab-fig",
+          "event": "event:hab-fig",
+          "eq": "fact:hab-fig",
+          "scope": "OT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "bible-q-malachi-storehouse",
+          "event": "event:malachi-storehouse",
+          "eq": "fact:malachi-storehouse",
+          "scope": "OT",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "bible-q-adonijah-execution",
+          "event": "event:adonijah-execution",
+          "eq": "fact:adonijah-execution",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-obadiah-brother",
+          "event": "event:obadiah-brother",
+          "eq": "fact:obadiah-brother",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-saul-claim",
+          "event": "event:saul-narrator",
+          "eq": "fact:saul-claim",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "A|flight",
+          "event": "event:flight",
+          "eq": "fact:flight",
+          "scope": "OT",
+          "difficulty": "mastery"
+        },
+        {
+          "id": "bible-q-jephthah-shibboleth",
+          "event": "event:jephthah-shibboleth",
+          "eq": "fact:jephthah-shibboleth",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-noah-bird",
+          "event": "event:noah-bird",
+          "eq": "fact:noah-bird",
+          "scope": "OT",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "bible-q-cyrus-decree",
+          "event": "event:cyrus-decree",
+          "eq": "fact:cyrus-decree",
+          "scope": "OT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "bible-q-shiloh-tent",
+          "event": "event:shiloh-tent",
+          "eq": "fact:shiloh-tent",
+          "scope": "OT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "bible-q-ruth-harvest",
+          "event": "event:ruth-harvest",
+          "eq": "fact:ruth-harvest",
+          "scope": "OT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "bible-q-joseph-bones",
+          "event": "event:joseph-bones",
+          "eq": "fact:joseph-bones",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-deut-king",
+          "event": "event:deut-king",
+          "eq": "fact:deut-king",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-ezekiel-river",
+          "event": "event:ezekiel-river",
+          "eq": "fact:ezekiel-river",
+          "scope": "OT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "bible-q-job-daughters",
+          "event": "event:job-daughters",
+          "eq": "fact:job-daughters",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-num-refuge",
+          "event": "event:num-refuge",
+          "eq": "fact:num-refuge",
+          "scope": "OT",
+          "difficulty": "advanced"
+        }
+      ]
+    },
+    {
+      "name": "ot: correct answer and completion",
+      "status": "PASS",
+      "detail": "20/20"
+    },
+    {
+      "name": "nt: 20 distinct questions/events/equivalences",
+      "status": "PASS",
+      "detail": [
+        {
+          "id": "bible-q-jude-triad",
+          "event": "event:jude-triad",
+          "eq": "fact:jude-triad",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "F|felix:paul-prison",
+          "event": "event:felix-successor",
+          "eq": "fact:felix:paul-prison",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-mark-executioner",
+          "event": "event:mark-executioner",
+          "eq": "fact:mark-executioner",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-mark-simon",
+          "event": "event:mark-simon",
+          "eq": "fact:mark-simon",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-luke-naaman",
+          "event": "event:luke-naaman",
+          "eq": "fact:luke-naaman",
+          "scope": "NT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "bible-q-galatians-allegory",
+          "event": "event:galatians-allegory",
+          "eq": "fact:galatians-allegory",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-demas-place",
+          "event": "event:demas-place",
+          "eq": "fact:demas-place",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-silvanus-letter",
+          "event": "event:silvanus-letter",
+          "eq": "fact:silvanus-letter",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-matt-gifts",
+          "event": "event:matt-gifts",
+          "eq": "fact:matt-gifts",
+          "scope": "NT",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "bible-q-gallio-achaia",
+          "event": "event:gallio-achaia",
+          "eq": "fact:gallio-achaia",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "A|azotus",
+          "event": "event:azotus",
+          "eq": "fact:azotus",
+          "scope": "NT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "F|caiaphas:trial",
+          "event": "event:caiaphas:trial",
+          "eq": "fact:caiaphas:trial",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-thess-work",
+          "event": "event:thess-work",
+          "eq": "fact:thess-work",
+          "scope": "NT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "F|ananias:damascus",
+          "event": "event:ananias:damascus",
+          "eq": "fact:ananias:damascus",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-tert-scribe",
+          "event": "event:tert-scribe",
+          "eq": "fact:tert-scribe",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-hebrews-ark",
+          "event": "event:hebrews-ark",
+          "eq": "fact:hebrews-ark",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-corinth-pledge",
+          "event": "event:corinth-pledge",
+          "eq": "fact:corinth-pledge",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-paul-centurion",
+          "event": "event:paul-centurion",
+          "eq": "fact:paul-centurion",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "F|antipas:john-baptist",
+          "event": "event:antipas:john-baptist",
+          "eq": "fact:antipas:john-baptist",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-revelation-river",
+          "event": "event:revelation-river",
+          "eq": "fact:revelation-river",
+          "scope": "NT",
+          "difficulty": "intermediate"
+        }
+      ]
+    },
+    {
+      "name": "nt: correct answer and completion",
+      "status": "PASS",
+      "detail": "20/20"
+    },
+    {
+      "name": "mixed: 20 distinct questions/events/equivalences",
+      "status": "PASS",
+      "detail": [
+        {
+          "id": "bible-q-manasseh-return",
+          "event": "event:manasseh-return",
+          "eq": "fact:manasseh-return",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-num-daughters",
+          "event": "event:num-daughters",
+          "eq": "fact:num-daughters",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "F|josiah:book-of-law",
+          "event": "event:hilkiah-find",
+          "eq": "fact:josiah:book-of-law",
+          "scope": "OT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "bible-q-eben-ezer",
+          "event": "event:eben-ezer",
+          "eq": "fact:eben-ezer",
+          "scope": "OT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "bible-q-acts-eutychus",
+          "event": "event:acts-eutychus",
+          "eq": "fact:acts-eutychus",
+          "scope": "NT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "bible-q-esther-lots",
+          "event": "event:esther-lots",
+          "eq": "fact:esther-lots",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "A|jehoiada",
+          "event": "event:jehoiada",
+          "eq": "fact:jehoiada",
+          "scope": "OT",
+          "difficulty": "mastery"
+        },
+        {
+          "id": "bible-q-othniel-city",
+          "event": "event:othniel-city",
+          "eq": "fact:othniel-city",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-ehud-hand",
+          "event": "event:ehud-hand",
+          "eq": "fact:ehud-hand",
+          "scope": "OT",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "F|isaiah:voice-john",
+          "event": "event:isaiah:voice-john",
+          "eq": "fact:isaiah:voice-john",
+          "scope": "CROSS",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-colossians-physician",
+          "event": "event:colossians-physician",
+          "eq": "fact:colossians-physician",
+          "scope": "NT",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "F|titus:crete",
+          "event": "event:titus:crete",
+          "eq": "fact:titus:crete",
+          "scope": "NT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "bible-q-atonement-lots",
+          "event": "event:atonement-lots",
+          "eq": "fact:atonement-lots",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-haggai-houses",
+          "event": "event:haggai-houses",
+          "eq": "fact:haggai-houses",
+          "scope": "OT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "A|conclusion",
+          "event": "event:conclusion",
+          "eq": "fact:conclusion",
+          "scope": "OT",
+          "difficulty": "mastery"
+        },
+        {
+          "id": "F|samuel:anoints-kings",
+          "event": "event:samuel:anoints-kings",
+          "eq": "fact:samuel:anoints-kings",
+          "scope": "OT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "bible-q-moses-basket",
+          "event": "event:moses-basket",
+          "eq": "fact:moses-basket",
+          "scope": "OT",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "bible-q-num-aaron-rod",
+          "event": "event:num-aaron-rod",
+          "eq": "fact:num-aaron-rod",
+          "scope": "OT",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "bible-q-nob-agent",
+          "event": "event:nob-agent",
+          "eq": "fact:nob-agent",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-antipas-witness",
+          "event": "event:antipas-witness",
+          "eq": "fact:antipas-witness",
+          "scope": "NT",
+          "difficulty": "advanced"
+        }
+      ]
+    },
+    {
+      "name": "mixed: correct answer and completion",
+      "status": "PASS",
+      "detail": "20/20"
+    },
+    {
+      "name": "hard: 20 distinct questions/events/equivalences",
+      "status": "PASS",
+      "detail": [
+        {
+          "id": "bible-q-abimelech-final",
+          "event": "event:abimelech-final",
+          "eq": "fact:abimelech-final",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "F|judah-middle-kings:order",
+          "event": "event:judah-middle-kings:order",
+          "eq": "fact:judah-middle-kings:order",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-hezekiah-month",
+          "event": "event:hezekiah-month",
+          "eq": "fact:hezekiah-month",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "A|jonah-nineveh",
+          "event": "event:jonah-nineveh",
+          "eq": "fact:jonah-nineveh",
+          "scope": "OT",
+          "difficulty": "mastery"
+        },
+        {
+          "id": "bible-q-haggai-priest",
+          "event": "event:haggai-priest",
+          "eq": "fact:haggai-priest",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-oholiab",
+          "event": "event:oholiab",
+          "eq": "fact:oholiab",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-jeremiah-field",
+          "event": "event:jeremiah-field",
+          "eq": "fact:jeremiah-field",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-nadab-siege",
+          "event": "event:nadab-siege",
+          "eq": "fact:nadab-siege",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "A|mephi",
+          "event": "event:mephi",
+          "eq": "fact:mephi",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-philemon-address",
+          "event": "event:philemon-address",
+          "eq": "fact:philemon-address",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-amos-occupation",
+          "event": "event:amaziah-amos",
+          "eq": "fact:amos-occupation",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-ebed-rescue",
+          "event": "event:ebed-rescue",
+          "eq": "fact:ebed-rescue",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-nehemiah-opponents",
+          "event": "event:nehemiah-opponents",
+          "eq": "fact:nehemiah-opponents",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-ephraim-hand",
+          "event": "event:ephraim-hand",
+          "eq": "fact:ephraim-hand",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-paul-antioch",
+          "event": "event:paul-antioch",
+          "eq": "fact:paul-antioch",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-peter-letters",
+          "event": "event:peter-letters",
+          "eq": "fact:peter-letters",
+          "scope": "NT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-elah-assassin",
+          "event": "event:elah-assassin",
+          "eq": "fact:elah-assassin",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-hebron-name",
+          "event": "event:hebron-name",
+          "eq": "fact:hebron-name",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-elim-springs",
+          "event": "event:elim-springs",
+          "eq": "fact:elim-springs",
+          "scope": "OT",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "bible-q-job-elihu",
+          "event": "event:job-elihu",
+          "eq": "fact:job-elihu",
+          "scope": "OT",
+          "difficulty": "advanced"
+        }
+      ]
+    },
+    {
+      "name": "hard: correct answer and completion",
+      "status": "PASS",
+      "detail": "20/20"
+    },
+    {
+      "name": "Wrong answer locks options and leaves score zero",
+      "status": "PASS",
+      "detail": "Not quite. Correct answer: Jehoiakim. The chapter identifies Jehoiakim as the king who destroyed the scroll. Jehudi read it; he was not the ruler ordering its destruction.\n\nJeremiah 36:9,21-23 · Evidence: ASV (1901)\n\nWhy these alternatives differ"
+    },
+    {
+      "name": "First stop tap retains quiz",
+      "status": "PASS"
+    },
+    {
+      "name": "Second stop tap returns home",
+      "status": "PASS"
+    },
+    {
+      "name": "Character Study renders all records",
+      "status": "PASS",
+      "detail": 265
+    },
+    {
+      "name": "Scripture all: session and first question",
+      "status": "PASS",
+      "detail": {
+        "count": 20,
+        "sample": {
+          "id": "S|John|3:16|fill",
+          "q": "Complete the KJV wording:\n\n“For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him …”",
+          "ans": "should not perish, but have everlasting life.",
+          "opts": [
+            "should not perish, but have everlasting life.",
+            "and desperately wicked: who can know it?",
+            "chastisement of our peace was upon him.",
+            "and mighty things, which thou knowest not."
+          ],
+          "exp": "John 3:16 (KJV): “For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.”"
+        }
+      }
+    },
+    {
+      "name": "Scripture all: completion",
+      "status": "PASS",
+      "detail": "20/20"
+    },
+    {
+      "name": "Scripture ot: session and first question",
+      "status": "PASS",
+      "detail": {
+        "count": 20,
+        "sample": {
+          "id": "S|Ecclesiastes|12:13|book",
+          "q": "“Fear God, and keep his commandments: for this is the whole duty of man.”\n\nWhich book is this KJV passage from?",
+          "ans": "Ecclesiastes",
+          "opts": [
+            "Revelation",
+            "Matthew",
+            "Ecclesiastes",
+            "1 Peter"
+          ],
+          "exp": "Ecclesiastes 12:13 (KJV): “Fear God, and keep his commandments: for this is the whole duty of man.”"
+        }
+      }
+    },
+    {
+      "name": "Scripture ot: completion",
+      "status": "PASS",
+      "detail": "20/20"
+    },
+    {
+      "name": "Scripture nt: session and first question",
+      "status": "PASS",
+      "detail": {
+        "count": 20,
+        "sample": {
+          "id": "S|Mark|8:36|ref",
+          "q": "Which reference matches this KJV passage?\n\n“For what shall it profit a man, if he shall gain the whole world, and lose his own soul?”",
+          "ans": "Mark 8:36",
+          "opts": [
+            "Mark 8:36",
+            "2 Chronicles 7:14",
+            "Deuteronomy 6:5",
+            "Ecclesiastes 12:13"
+          ],
+          "exp": "Mark 8:36 (KJV): “For what shall it profit a man, if he shall gain the whole world, and lose his own soul?”"
+        }
+      }
+    },
+    {
+      "name": "Scripture nt: completion",
+      "status": "PASS",
+      "detail": "20/20"
+    },
+    {
+      "name": "Scripture parables: session and first question",
+      "status": "PASS",
+      "detail": {
+        "count": 20,
+        "sample": {
+          "id": "P|The Wheat and Tares|name",
+          "q": "Which parable is found at Matthew 13:24–30, 36–43?",
+          "ans": "The Wheat and Tares",
+          "opts": [
+            "The Sower",
+            "The Wheat and Tares",
+            "The Pharisee and the Publican",
+            "The Marriage Feast"
+          ],
+          "exp": "The Wheat and Tares — Matthew 13:24–30, 36–43. Good and evil remain together until judgment."
+        }
+      }
+    },
+    {
+      "name": "Scripture parables: completion",
+      "status": "PASS",
+      "detail": "20/20"
+    },
+    {
+      "name": "Scripture miracles: session and first question",
+      "status": "PASS",
+      "detail": {
+        "count": 20,
+        "sample": {
+          "id": "M|Healing blind Bartimaeus|name",
+          "q": "Which miracle is recorded at Mark 10:46–52; Luke 18:35–43?",
+          "ans": "Healing blind Bartimaeus",
+          "opts": [
+            "Healing the nobleman's son",
+            "Healing blind Bartimaeus",
+            "Water into wine",
+            "Healing the deaf man"
+          ],
+          "exp": "Healing blind Bartimaeus — Mark 10:46–52; Luke 18:35–43."
+        }
+      }
+    },
+    {
+      "name": "Scripture miracles: completion",
+      "status": "PASS",
+      "detail": "20/20"
+    },
+    {
+      "name": "Scripture book: session and first question",
+      "status": "PASS",
+      "detail": {
+        "count": 5,
+        "sample": {
+          "id": "S|Genesis|1:1|fill",
+          "q": "Complete the KJV wording:\n\n“In the beginning God created the heaven …”",
+          "ans": "and the earth.",
+          "opts": [
+            "his own eyes.",
+            "of the LORD.",
+            "liveth in me.",
+            "and the earth."
+          ],
+          "exp": "Genesis 1:1 (KJV): “In the beginning God created the heaven and the earth.”"
+        }
+      }
+    },
+    {
+      "name": "Scripture book: completion",
+      "status": "PASS",
+      "detail": "5/5"
+    },
+    {
+      "name": "Scripture browse search",
+      "status": "PASS"
+    },
+    {
+      "name": "Memorisation built-in library count",
+      "status": "PASS",
+      "detail": 121
+    },
+    {
+      "name": "Draft survives reload",
+      "status": "PASS"
+    },
+    {
+      "name": "Pause keeps progress",
+      "status": "PASS"
+    },
+    {
+      "name": "v3 backup includes custom text, memo, rotation and history",
+      "status": "PASS",
+      "detail": {
+        "v": 3,
+        "fields": [
+          "v",
+          "memo",
+          "rot",
+          "quizHistory",
+          "custom"
+        ],
+        "custom": 1
+      }
+    },
+    {
+      "name": "Same backup restores without duplicate custom passage",
+      "status": "PASS"
+    },
+    {
+      "name": "Backup conflict retains both passages and original progress",
+      "status": "PASS",
+      "detail": {
+        "count": 2,
+        "existingBox": 2,
+        "restoredBox": 4,
+        "rejected": true
+      }
+    },
+    {
+      "name": "Unsafe backup key rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "My Memorised Verses includes active custom passage (known source limitation)",
+      "status": "FAIL",
+      "detail": {
+        "active": [
+          "U|1794672041619|90y3oo01s4s"
+        ],
+        "pool": 0
+      }
+    },
+    {
+      "name": "Home fits 390px viewport",
+      "status": "PASS"
+    },
+    {
+      "name": "No uncaught browser errors",
+      "status": "PASS",
+      "detail": []
+    },
+    {
+      "name": "No nonlocal network requests",
+      "status": "PASS",
+      "detail": [
+        "http://127.0.0.1:46785/",
+        "http://127.0.0.1:46785/"
+      ]
+    }
+  ],
+  "errors": [],
+  "requests": [
+    "http://127.0.0.1:46785/",
+    "http://127.0.0.1:46785/"
+  ]
+}

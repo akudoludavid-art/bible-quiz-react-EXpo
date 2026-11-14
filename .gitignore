@@ -1,0 +1,16 @@
+# Keep future credentials and personal exports out of the preservation repository.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+/private-data/
+/personal-backups/
+/browser-profile/
+/playwright-report/
+/test-results/
+/node_modules/
+__pycache__/
+*.log
+
+# Reviewed audit evidence in docs/evidence is intentionally retained.

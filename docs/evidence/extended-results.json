@@ -1,0 +1,113 @@
+{
+  "runAt": "2026-11-14T15:59:46.322Z",
+  "results": [
+    {
+      "name": "Elapsed timer advances",
+      "status": "PASS"
+    },
+    {
+      "name": "Keyboard 1 answers",
+      "status": "PASS"
+    },
+    {
+      "name": "Enter advances question",
+      "status": "PASS"
+    },
+    {
+      "name": "My Memorised Verses includes active built-in learning verse",
+      "status": "PASS",
+      "detail": {
+        "n": 3,
+        "ids": [
+          "S|John|3:16|ref",
+          "S|John|3:16|fill",
+          "S|John|3:16|book"
+        ]
+      }
+    },
+    {
+      "name": "Rotation release returns only unseen dealt questions",
+      "status": "PASS",
+      "detail": {
+        "first": [
+          "audit-1",
+          "audit-3",
+          "audit-4"
+        ],
+        "bag": {
+          "remaining": [
+            "audit-3",
+            "audit-4",
+            "audit-2"
+          ],
+          "seen": [
+            "audit-1"
+          ],
+          "recent": [
+            "audit-1"
+          ],
+          "inflight": []
+        }
+      }
+    },
+    {
+      "name": "Multi-key storage rollback on simulated quota failure",
+      "status": "PASS",
+      "detail": {
+        "ok": false,
+        "old": "old",
+        "second": null
+      }
+    },
+    {
+      "name": "Custom passage edit persists",
+      "status": "PASS"
+    },
+    {
+      "name": "Custom passage confirmed delete persists",
+      "status": "PASS"
+    },
+    {
+      "name": "Review got progression reaches 60 days",
+      "status": "PASS",
+      "detail": [
+        1,
+        3,
+        7,
+        14,
+        30,
+        60
+      ]
+    },
+    {
+      "name": "Mastered lapse returns to box 2",
+      "status": "PASS",
+      "detail": {
+        "box": 2,
+        "diff": 1,
+        "lapses": 1,
+        "up": 1000000,
+        "due": 260200000
+      }
+    },
+    {
+      "name": "Almost halves interval without promotion",
+      "status": "PASS",
+      "detail": {
+        "box": 2,
+        "diff": 1,
+        "lapses": 1,
+        "up": 1000000,
+        "due": 130600000
+      }
+    },
+    {
+      "name": "Recall normalization and omission scoring",
+      "status": "PASS",
+      "detail": {
+        "exact": 1,
+        "wrong": 0.16666666666666666
+      }
+    }
+  ]
+}

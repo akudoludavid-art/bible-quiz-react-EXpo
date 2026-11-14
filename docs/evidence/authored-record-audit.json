@@ -1,0 +1,3217 @@
+[
+  {
+    "id": "bible-q-joram-arrow",
+    "stem": "Who shot Joram, son of Ahab and king of Israel, through the heart near Jezreel?",
+    "correctAnswer": "Jehu",
+    "category": "Royal deaths",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 9:21-26"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-jezebel-agents",
+    "stem": "At Jehu's command, who physically threw Jezebel down from the window?",
+    "correctAnswer": "The eunuchs who looked out",
+    "category": "Royal deaths",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 9:32-33"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ahab-wound",
+    "stem": "How does 1 Kings describe the person whose arrow wounded the disguised Ahab at Ramoth-gilead?",
+    "correctAnswer": "An unnamed man who drew his bow",
+    "category": "Wars and battles",
+    "difficulty": "advanced",
+    "references": [
+      "1 Kings 22:30-35"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-saul-narrator",
+    "stem": "According to the narrator in 1 Samuel 31, what did Saul do when his armour-bearer refused to kill him?",
+    "correctAnswer": "Fell on his own sword",
+    "category": "Royal deaths",
+    "difficulty": "intermediate",
+    "references": [
+      "1 Samuel 31:3-5"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-saul-claim",
+    "stem": "In his report to David, what did the Amalekite claim he had done for the wounded Saul?",
+    "correctAnswer": "Killed Saul at Saul's request",
+    "category": "Textual nuance",
+    "difficulty": "advanced",
+    "references": [
+      "2 Samuel 1:6-10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-amon-aftermath",
+    "stem": "After Amon's servants killed him, who killed the conspirators and made Josiah king?",
+    "correctAnswer": "The people of the land",
+    "category": "Kings and succession",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 21:23-26"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-abimelech-final",
+    "stem": "After a woman fractured Abimelech's skull with a millstone at Thebez, who delivered the sword thrust at his request?",
+    "correctAnswer": "His armour-bearer",
+    "category": "Royal deaths",
+    "difficulty": "advanced",
+    "references": [
+      "Judges 9:52-54"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-abimelech-place",
+    "stem": "At which town did a woman drop the millstone that struck Abimelech?",
+    "correctAnswer": "Thebez",
+    "category": "Geography",
+    "difficulty": "advanced",
+    "references": [
+      "Judges 9:50-54"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-agag-agent",
+    "stem": "Who personally put Agag to death at Gilgal after Saul had spared him?",
+    "correctAnswer": "Samuel",
+    "category": "Royal deaths",
+    "difficulty": "intermediate",
+    "references": [
+      "1 Samuel 15:32-33"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-nob-agent",
+    "stem": "When Saul's servants refused to strike the priests at Nob, who carried out Saul's command?",
+    "correctAnswer": "Doeg the Edomite",
+    "category": "Royal deaths",
+    "difficulty": "advanced",
+    "references": [
+      "1 Samuel 22:17-20"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-abner-agent",
+    "stem": "Who took Abner aside at the gate of Hebron and struck him in revenge for Asahel?",
+    "correctAnswer": "Joab",
+    "category": "Royal deaths",
+    "difficulty": "intermediate",
+    "references": [
+      "2 Samuel 3:27-30"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ishbosheth-assassins",
+    "stem": "Which two sons of Rimmon entered Ish-bosheth's house and killed him?",
+    "correctAnswer": "Rechab and Baanah",
+    "category": "Royal deaths",
+    "difficulty": "advanced",
+    "references": [
+      "2 Samuel 4:5-7"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-uriah-order",
+    "stem": "Who wrote the letter instructing Joab to place Uriah in the fiercest fighting and withdraw from him?",
+    "correctAnswer": "David",
+    "category": "Wars and battles",
+    "difficulty": "advanced",
+    "references": [
+      "2 Samuel 11:14-17"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-amnon-order",
+    "stem": "Who ordered his servants to kill Amnon when his heart was merry with wine?",
+    "correctAnswer": "Absalom",
+    "category": "Royal deaths",
+    "difficulty": "advanced",
+    "references": [
+      "2 Samuel 13:28-29"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-adonijah-execution",
+    "stem": "Whom did Solomon send to execute Adonijah after the request concerning Abishag?",
+    "correctAnswer": "Benaiah son of Jehoiada",
+    "category": "Royal deaths",
+    "difficulty": "advanced",
+    "references": [
+      "1 Kings 2:23-25"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-zimri-fire",
+    "stem": "When he saw that Tirzah had been taken, what did Zimri do?",
+    "correctAnswer": "Burned the king's house over himself",
+    "category": "Royal deaths",
+    "difficulty": "advanced",
+    "references": [
+      "1 Kings 16:18-19"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-nadab-siege",
+    "stem": "At which Philistine town under siege did Baasha kill Nadab son of Jeroboam?",
+    "correctAnswer": "Gibbethon",
+    "category": "Wars and battles",
+    "difficulty": "advanced",
+    "references": [
+      "1 Kings 15:27-28"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-elah-assassin",
+    "stem": "Which chariot commander killed Elah while the king was drinking in Arza's house at Tirzah?",
+    "correctAnswer": "Zimri",
+    "category": "Kings and succession",
+    "difficulty": "advanced",
+    "references": [
+      "1 Kings 16:8-10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ahaziah-israel",
+    "stem": "Which king sent to consult Baal-zebub of Ekron after falling through a lattice in Samaria?",
+    "correctAnswer": "Ahaziah son of Ahab",
+    "category": "Same-name identities",
+    "difficulty": "advanced",
+    "references": [
+      "1 Kings 22:51",
+      "2 Kings 1:2-4"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-azariah-joash",
+    "stem": "Which Zechariah was stoned in the temple court at King Joash's command?",
+    "correctAnswer": "Zechariah son of Jehoiada",
+    "category": "Same-name identities",
+    "difficulty": "mastery",
+    "references": [
+      "2 Chronicles 24:20-22"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-amaziah-death",
+    "stem": "To which city did Amaziah flee before conspirators killed him there?",
+    "correctAnswer": "Lachish",
+    "category": "Geography",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 14:19-20"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-josiah-chronicles",
+    "stem": "In Chronicles' account, where did Josiah die after being wounded by archers at Megiddo?",
+    "correctAnswer": "Jerusalem",
+    "category": "Textual nuance",
+    "difficulty": "mastery",
+    "references": [
+      "2 Chronicles 35:23-24"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-gedaliah-assassin",
+    "stem": "Who led the party that killed Gedaliah son of Ahikam at Mizpah?",
+    "correctAnswer": "Ishmael son of Nethaniah",
+    "category": "Kings and succession",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 25:22-25"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-zedekiah-sequence",
+    "stem": "Which sequence is recorded for Zedekiah at Riblah?",
+    "correctAnswer": "His sons were killed, then he was blinded",
+    "category": "Exile and restoration",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 25:6-7"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-bethel-luz",
+    "stem": "What earlier name does Genesis give for the place Jacob named Bethel?",
+    "correctAnswer": "Luz",
+    "category": "Place names",
+    "difficulty": "intermediate",
+    "references": [
+      "Genesis 28:19"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-dan-laish",
+    "stem": "What was the city called before the Danites renamed it Dan?",
+    "correctAnswer": "Laish",
+    "category": "Place names",
+    "difficulty": "intermediate",
+    "references": [
+      "Judges 18:29"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-jerusalem-jebus",
+    "stem": "Which older name is explicitly identified with Jerusalem in Judges 19?",
+    "correctAnswer": "Jebus",
+    "category": "Place names",
+    "difficulty": "intermediate",
+    "references": [
+      "Judges 19:10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-hebron-name",
+    "stem": "What former name of Hebron does Joshua 14 identify?",
+    "correctAnswer": "Kiriath-arba",
+    "category": "Place names",
+    "difficulty": "advanced",
+    "references": [
+      "Joshua 14:15"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ebed-rescue",
+    "stem": "Which court official obtained permission to rescue Jeremiah and supplied rags to cushion the ropes?",
+    "correctAnswer": "Ebed-melech",
+    "category": "Obscure people",
+    "difficulty": "advanced",
+    "references": [
+      "Jeremiah 38:7-13"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-hilkiah-find",
+    "stem": "Who reported finding the Book of the Law in the temple during Josiah's reign?",
+    "correctAnswer": "Hilkiah the high priest",
+    "category": "Priesthood",
+    "difficulty": "intermediate",
+    "references": [
+      "2 Kings 22:8-10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-shaphan-read",
+    "stem": "Who read the newly discovered Book of the Law before King Josiah?",
+    "correctAnswer": "Shaphan",
+    "category": "Obscure people",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 22:8-11"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-amaziah-amos",
+    "stem": "Who told Amos to flee to Judah and stop prophesying at Bethel?",
+    "correctAnswer": "Amaziah the priest",
+    "category": "Prophets",
+    "difficulty": "advanced",
+    "references": [
+      "Amos 7:10-14"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-amos-occupation",
+    "stem": "What two occupations did Amos mention when replying to Amaziah?",
+    "correctAnswer": "Herdsman and dresser of sycamore trees",
+    "category": "Prophets",
+    "difficulty": "advanced",
+    "references": [
+      "Amos 7:14-15"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-stephen-amos",
+    "stem": "Which prophet supplies the passage about Moloch's tabernacle quoted in Stephen's speech?",
+    "correctAnswer": "Amos",
+    "category": "Scriptural connections",
+    "difficulty": "mastery",
+    "references": [
+      "Acts 7:42-43",
+      "Amos 5:25-27"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-hosea-egypt",
+    "stem": "Matthew applies a statement about calling a son out of Egypt to Jesus. In Hosea's original context, who is called the son?",
+    "correctAnswer": "Israel",
+    "category": "Scriptural connections",
+    "difficulty": "mastery",
+    "references": [
+      "Matthew 2:15",
+      "Hosea 11:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-rahab-line",
+    "stem": "In the sequence Rahab, Boaz, Obed, Jesse, David recorded in Matthew, how many parent-to-child links separate Rahab from David?",
+    "correctAnswer": "Four",
+    "category": "Genealogy",
+    "difficulty": "mastery",
+    "references": [
+      "Matthew 1:5-6"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-athaliah-rescuer",
+    "stem": "Who hid the infant Joash and is identified as Jehoiada's wife and King Jehoram's daughter?",
+    "correctAnswer": "Jehoshabeath",
+    "category": "Genealogy",
+    "difficulty": "advanced",
+    "references": [
+      "2 Chronicles 22:11-12"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-naaman-river",
+    "stem": "In which river did Naaman wash seven times as Elisha's message instructed?",
+    "correctAnswer": "Jordan",
+    "category": "Geography",
+    "difficulty": "beginner",
+    "references": [
+      "2 Kings 5:10-14"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-dothan-servant",
+    "stem": "Where was Elisha when his servant's eyes were opened to see horses and chariots of fire?",
+    "correctAnswer": "Dothan",
+    "category": "Geography",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 6:13-17"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-anoint-jehu",
+    "stem": "Who instructed a member of the sons of the prophets to go to Ramoth-gilead and anoint Jehu?",
+    "correctAnswer": "Elisha",
+    "category": "Prophets",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 9:1-6"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-joel-pentecost",
+    "stem": "Whose prophecy did Peter explicitly cite to explain the outpouring of the Spirit at Pentecost?",
+    "correctAnswer": "Joel",
+    "category": "Scriptural connections",
+    "difficulty": "intermediate",
+    "references": [
+      "Acts 2:16-21",
+      "Joel 2:28-32"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-herod-james",
+    "stem": "Which James did Herod kill with the sword before imprisoning Peter?",
+    "correctAnswer": "James the brother of John",
+    "category": "Same-name identities",
+    "difficulty": "advanced",
+    "references": [
+      "Acts 12:1-4"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-peter-rhoda",
+    "stem": "Who recognised Peter's voice at the gate but ran to announce him before opening it?",
+    "correctAnswer": "Rhoda",
+    "category": "Obscure people",
+    "difficulty": "intermediate",
+    "references": [
+      "Acts 12:12-16"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-paul-antioch",
+    "stem": "After leaving Perga in Pamphylia, which Antioch did Paul and his companions reach?",
+    "correctAnswer": "Antioch in Pisidia",
+    "category": "Geography",
+    "difficulty": "advanced",
+    "references": [
+      "Acts 13:13-14"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-lydia-origin",
+    "stem": "From which city was Lydia, the seller of purple whom Paul met at Philippi?",
+    "correctAnswer": "Thyatira",
+    "category": "Geography",
+    "difficulty": "intermediate",
+    "references": [
+      "Acts 16:14"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-sergius-office",
+    "stem": "What office does Acts assign to Sergius Paulus when Paul meets him in Cyprus?",
+    "correctAnswer": "Proconsul",
+    "category": "Offices and roles",
+    "difficulty": "advanced",
+    "references": [
+      "Acts 13:6-7"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-gallio-achaia",
+    "stem": "Over which province was Gallio proconsul when Paul's opponents brought him to judgment?",
+    "correctAnswer": "Achaia",
+    "category": "Offices and roles",
+    "difficulty": "advanced",
+    "references": [
+      "Acts 18:12-16"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-felix-successor",
+    "stem": "Who succeeded Felix as governor while Paul remained imprisoned?",
+    "correctAnswer": "Porcius Festus",
+    "category": "Kings and succession",
+    "difficulty": "intermediate",
+    "references": [
+      "Acts 24:27"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-paul-centurion",
+    "stem": "Which centurion of the Augustan band was entrusted with Paul for the journey to Italy?",
+    "correctAnswer": "Julius",
+    "category": "Obscure people",
+    "difficulty": "advanced",
+    "references": [
+      "Acts 27:1-3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-malta-chief",
+    "stem": "Whose father was healed by Paul after the shipwreck, on an estate where the travellers were welcomed?",
+    "correctAnswer": "Publius",
+    "category": "Obscure people",
+    "difficulty": "advanced",
+    "references": [
+      "Acts 28:7-8"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-tert-scribe",
+    "stem": "Who inserts a greeting identifying himself as the person who wrote down the letter to the Romans?",
+    "correctAnswer": "Tertius",
+    "category": "Obscure people",
+    "difficulty": "advanced",
+    "references": [
+      "Romans 16:22"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-phoebe-church",
+    "stem": "With which church does Paul associate Phoebe when commending her to the Romans?",
+    "correctAnswer": "Cenchreae",
+    "category": "Geography",
+    "difficulty": "advanced",
+    "references": [
+      "Romans 16:1-2"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-chloe-report",
+    "stem": "Whose household informed Paul about quarrels among the Corinthians?",
+    "correctAnswer": "Chloe's",
+    "category": "Obscure people",
+    "difficulty": "intermediate",
+    "references": [
+      "1 Corinthians 1:11"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-epaphras-prayer",
+    "stem": "Who does Paul describe as striving in prayer for the Colossians and caring for those in Laodicea and Hierapolis?",
+    "correctAnswer": "Epaphras",
+    "category": "Early church",
+    "difficulty": "advanced",
+    "references": [
+      "Colossians 4:12-13"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-carpus-cloak",
+    "stem": "With whom had Paul left the cloak at Troas that he asked Timothy to bring?",
+    "correctAnswer": "Carpus",
+    "category": "Obscure people",
+    "difficulty": "advanced",
+    "references": [
+      "2 Timothy 4:13"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-demas-place",
+    "stem": "To which destination did Demas go after deserting Paul, according to 2 Timothy?",
+    "correctAnswer": "Thessalonica",
+    "category": "Geography",
+    "difficulty": "advanced",
+    "references": [
+      "2 Timothy 4:10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-titus-winter",
+    "stem": "Where did Paul say he had decided to spend the winter when asking Titus to join him?",
+    "correctAnswer": "Nicopolis",
+    "category": "Geography",
+    "difficulty": "advanced",
+    "references": [
+      "Titus 3:12"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-zenas-lawyer",
+    "stem": "Which person is called a lawyer in Paul's instruction to Titus about supplying travellers?",
+    "correctAnswer": "Zenas",
+    "category": "Offices and roles",
+    "difficulty": "advanced",
+    "references": [
+      "Titus 3:13"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-onesimus-return",
+    "stem": "For whom does Paul appeal as his child, asking that he be received beyond the status of a servant as a beloved brother?",
+    "correctAnswer": "Onesimus",
+    "category": "Early church",
+    "difficulty": "intermediate",
+    "references": [
+      "Philemon 1:10-16"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-philemon-address",
+    "stem": "Who is called a fellow-soldier in the opening address of Philemon?",
+    "correctAnswer": "Archippus",
+    "category": "Early church",
+    "difficulty": "advanced",
+    "references": [
+      "Philemon 1:1-2"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-melchizedek-tithe",
+    "stem": "Who received a tenth from Abraham and is called king of Salem and priest of God Most High?",
+    "correctAnswer": "Melchizedek",
+    "category": "Scriptural connections",
+    "difficulty": "advanced",
+    "references": [
+      "Hebrews 7:1-4",
+      "Genesis 14:18-20"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-hebrews-tribe",
+    "stem": "Which tribe does Hebrews say the Lord descended from, in contrasting his priesthood with the altar-serving tribe?",
+    "correctAnswer": "Judah",
+    "category": "Priesthood",
+    "difficulty": "intermediate",
+    "references": [
+      "Hebrews 7:13-14"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-james-elijah",
+    "stem": "Which prophet does James use as an example of a person like us whose prayers concerned the withholding and return of rain?",
+    "correctAnswer": "Elijah",
+    "category": "Scriptural connections",
+    "difficulty": "intermediate",
+    "references": [
+      "James 5:17-18"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-james-rahab",
+    "stem": "Which woman does James cite for receiving messengers and sending them out by another way?",
+    "correctAnswer": "Rahab",
+    "category": "Scriptural connections",
+    "difficulty": "intermediate",
+    "references": [
+      "James 2:25"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-silvanus-letter",
+    "stem": "Through whom does the writer of 1 Peter say he has written briefly, calling him a faithful brother?",
+    "correctAnswer": "Silvanus",
+    "category": "Early church",
+    "difficulty": "advanced",
+    "references": [
+      "1 Peter 5:12"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-noah-preacher",
+    "stem": "Whom does 2 Peter call a preacher of righteousness in its account of the ancient world's judgment?",
+    "correctAnswer": "Noah",
+    "category": "Scriptural connections",
+    "difficulty": "intermediate",
+    "references": [
+      "2 Peter 2:5"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-cain-example",
+    "stem": "Which man does 1 John name as an example of hatred toward his brother?",
+    "correctAnswer": "Cain",
+    "category": "Scriptural connections",
+    "difficulty": "intermediate",
+    "references": [
+      "1 John 3:11-12"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-elect-lady",
+    "stem": "How does 2 John address its recipient without giving her a personal name?",
+    "correctAnswer": "The elect lady and her children",
+    "category": "Textual nuance",
+    "difficulty": "intermediate",
+    "references": [
+      "2 John 1:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-diotrephes",
+    "stem": "Who is criticised in 3 John for loving preeminence and refusing to receive the brethren?",
+    "correctAnswer": "Diotrephes",
+    "category": "Early church",
+    "difficulty": "advanced",
+    "references": [
+      "3 John 1:9-10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-demetrius",
+    "stem": "Who receives a good testimony from all and from the truth itself in 3 John?",
+    "correctAnswer": "Demetrius",
+    "category": "Early church",
+    "difficulty": "intermediate",
+    "references": [
+      "3 John 1:12"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-jude-body",
+    "stem": "According to Jude, whose body was the subject of Michael's dispute with the devil?",
+    "correctAnswer": "Moses'",
+    "category": "Textual nuance",
+    "difficulty": "advanced",
+    "references": [
+      "Jude 1:9"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-jude-triad",
+    "stem": "Which three figures occur together in Jude's warning about a way, an error for hire, and a rebellion?",
+    "correctAnswer": "Cain, Balaam and Korah",
+    "category": "Scriptural connections",
+    "difficulty": "advanced",
+    "references": [
+      "Jude 1:11"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-patmos",
+    "stem": "On which island does John say he was because of God's word and Jesus' testimony?",
+    "correctAnswer": "Patmos",
+    "category": "Geography",
+    "difficulty": "beginner",
+    "references": [
+      "Revelation 1:9"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-laodicea",
+    "stem": "Which church is addressed with the rebuke that it is neither cold nor hot?",
+    "correctAnswer": "Laodicea",
+    "category": "Early church",
+    "difficulty": "intermediate",
+    "references": [
+      "Revelation 3:14-16"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-antipas-witness",
+    "stem": "Which faithful witness is named as having been killed where the church at Pergamum lived?",
+    "correctAnswer": "Antipas",
+    "category": "Obscure people",
+    "difficulty": "advanced",
+    "references": [
+      "Revelation 2:12-13"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-creation-lights",
+    "stem": "On which day in Genesis 1 are the lights appointed to distinguish days, seasons and years?",
+    "correctAnswer": "Fourth",
+    "category": "Primeval history",
+    "difficulty": "beginner",
+    "references": [
+      "Genesis 1:14-19"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-noah-bird",
+    "stem": "Which bird returned to Noah with a freshly plucked olive leaf?",
+    "correctAnswer": "Dove",
+    "category": "Primeval history",
+    "difficulty": "beginner",
+    "references": [
+      "Genesis 8:8-12"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-terah-move",
+    "stem": "Where did Terah's household settle after setting out from Ur toward Canaan?",
+    "correctAnswer": "Haran",
+    "category": "Patriarchs",
+    "difficulty": "intermediate",
+    "references": [
+      "Genesis 11:31"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-sarah-burial",
+    "stem": "Which burial place did Abraham acquire from Ephron for Sarah?",
+    "correctAnswer": "The cave of Machpelah",
+    "category": "Geography",
+    "difficulty": "intermediate",
+    "references": [
+      "Genesis 23:17-20"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-rebekah-brother",
+    "stem": "Who is named as Rebekah's brother when he runs out to meet Abraham's servant?",
+    "correctAnswer": "Laban",
+    "category": "Genealogy",
+    "difficulty": "beginner",
+    "references": [
+      "Genesis 24:29"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-joseph-cup",
+    "stem": "In whose sack was Joseph's silver cup found after the brothers left Egypt?",
+    "correctAnswer": "Benjamin's",
+    "category": "Patriarchs",
+    "difficulty": "intermediate",
+    "references": [
+      "Genesis 44:1-2,12"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ephraim-hand",
+    "stem": "Which of Joseph's sons received Jacob's right hand despite being the younger?",
+    "correctAnswer": "Ephraim",
+    "category": "Genealogy",
+    "difficulty": "advanced",
+    "references": [
+      "Genesis 48:13-14,17-19"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-joseph-bones",
+    "stem": "Where were Joseph's bones buried after the Israelites brought them from Egypt?",
+    "correctAnswer": "Shechem",
+    "category": "Scriptural connections",
+    "difficulty": "advanced",
+    "references": [
+      "Joshua 24:32",
+      "Genesis 50:25"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-midwives",
+    "stem": "Which two midwives are named as refusing the king of Egypt's order to kill Hebrew boys?",
+    "correctAnswer": "Shiphrah and Puah",
+    "category": "Obscure people",
+    "difficulty": "intermediate",
+    "references": [
+      "Exodus 1:15-17"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-moses-basket",
+    "stem": "What was used to waterproof the basket in which Moses' mother placed him?",
+    "correctAnswer": "Bitumen and pitch",
+    "category": "Exodus and wilderness",
+    "difficulty": "beginner",
+    "references": [
+      "Exodus 2:3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-moses-sons",
+    "stem": "Which son of Moses had a name explained by Moses' deliverance from Pharaoh's sword?",
+    "correctAnswer": "Eliezer",
+    "category": "Genealogy",
+    "difficulty": "intermediate",
+    "references": [
+      "Exodus 18:3-4"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-marah",
+    "stem": "Where could the Israelites not drink the water because it was bitter?",
+    "correctAnswer": "Marah",
+    "category": "Geography",
+    "difficulty": "intermediate",
+    "references": [
+      "Exodus 15:23"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-elim-springs",
+    "stem": "What combination does Exodus record at Elim?",
+    "correctAnswer": "Twelve springs and seventy palms",
+    "category": "Exodus and wilderness",
+    "difficulty": "advanced",
+    "references": [
+      "Exodus 15:27"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-bezalel-tribe",
+    "stem": "From which tribe was Bezalel, the craftsman appointed for the tabernacle work?",
+    "correctAnswer": "Judah",
+    "category": "Tabernacle and temple",
+    "difficulty": "advanced",
+    "references": [
+      "Exodus 31:1-5"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-oholiab",
+    "stem": "Who was appointed alongside Bezalel and identified as a son of Ahisamach of Dan?",
+    "correctAnswer": "Oholiab",
+    "category": "Tabernacle and temple",
+    "difficulty": "advanced",
+    "references": [
+      "Exodus 31:6"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-lev-grain",
+    "stem": "Which two ingredients were forbidden from being burned as an offering by fire in the grain-offering instructions?",
+    "correctAnswer": "Leaven and honey",
+    "category": "Law and offerings",
+    "difficulty": "intermediate",
+    "references": [
+      "Leviticus 2:11"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-lev-salt",
+    "stem": "What seasoning was to accompany every grain offering as the salt of the covenant?",
+    "correctAnswer": "Salt",
+    "category": "Law and offerings",
+    "difficulty": "intermediate",
+    "references": [
+      "Leviticus 2:13"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-nadab-fire",
+    "stem": "Which sons of Aaron offered unauthorised fire before Jehovah?",
+    "correctAnswer": "Nadab and Abihu",
+    "category": "Priesthood",
+    "difficulty": "intermediate",
+    "references": [
+      "Leviticus 10:1-2"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-atonement-lots",
+    "stem": "What did Aaron use to distinguish the two goats in the Day of Atonement ritual?",
+    "correctAnswer": "Two lots",
+    "category": "Law and offerings",
+    "difficulty": "advanced",
+    "references": [
+      "Leviticus 16:7-10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-jubilee-year",
+    "stem": "After counting seven sabbaths of years, which year was to be proclaimed a jubilee?",
+    "correctAnswer": "Fiftieth",
+    "category": "Festivals",
+    "difficulty": "intermediate",
+    "references": [
+      "Leviticus 25:8-10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-gleaning",
+    "stem": "For whom were the edges of the harvest and vineyard gleanings to be left?",
+    "correctAnswer": "The poor and the sojourner",
+    "category": "Law and ethics",
+    "difficulty": "beginner",
+    "references": [
+      "Leviticus 19:9-10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-lev-scales",
+    "stem": "What does Leviticus require concerning balances, weights, the ephah and the hin?",
+    "correctAnswer": "They must be just measures",
+    "category": "Law and ethics",
+    "difficulty": "intermediate",
+    "references": [
+      "Leviticus 19:35-36"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-lev-blood",
+    "stem": "What reason does Leviticus give for the prohibition on eating blood?",
+    "correctAnswer": "The life of the flesh is in the blood",
+    "category": "Law and offerings",
+    "difficulty": "intermediate",
+    "references": [
+      "Leviticus 17:11-12"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-num-trumpets",
+    "stem": "What material were the two trumpets for summoning the congregation to be made from?",
+    "correctAnswer": "Silver",
+    "category": "Exodus and wilderness",
+    "difficulty": "intermediate",
+    "references": [
+      "Numbers 10:1-2"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-num-daughters",
+    "stem": "Whose daughters petitioned for an inheritance because their father had no sons?",
+    "correctAnswer": "Zelophehad's",
+    "category": "Law and inheritance",
+    "difficulty": "advanced",
+    "references": [
+      "Numbers 27:1-7"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-num-aaron-rod",
+    "stem": "What fruit appeared on Aaron's rod when it budded?",
+    "correctAnswer": "Almonds",
+    "category": "Priesthood",
+    "difficulty": "intermediate",
+    "references": [
+      "Numbers 17:8"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-num-serpent",
+    "stem": "What material did Moses use for the serpent set on a standard?",
+    "correctAnswer": "Bronze",
+    "category": "Exodus and wilderness",
+    "difficulty": "beginner",
+    "references": [
+      "Numbers 21:8-9"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-num-refuge",
+    "stem": "How were the six cities of refuge divided across the Jordan?",
+    "correctAnswer": "Three on each side",
+    "category": "Law and inheritance",
+    "difficulty": "advanced",
+    "references": [
+      "Numbers 35:13-15"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-deut-king",
+    "stem": "What was an Israelite king instructed to write for himself and read throughout his life?",
+    "correctAnswer": "A copy of the law",
+    "category": "Law and kingship",
+    "difficulty": "advanced",
+    "references": [
+      "Deuteronomy 17:18-19"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-deut-debts",
+    "stem": "At the end of how many years does Deuteronomy command a release of debts?",
+    "correctAnswer": "Seven",
+    "category": "Law and ethics",
+    "difficulty": "intermediate",
+    "references": [
+      "Deuteronomy 15:1-2"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-deut-succession",
+    "stem": "Whom did Moses publicly encourage to lead Israel into the promised land?",
+    "correctAnswer": "Joshua",
+    "category": "Kings and succession",
+    "difficulty": "beginner",
+    "references": [
+      "Deuteronomy 31:7-8"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-rahab-cord",
+    "stem": "What colour cord did the spies tell Rahab to tie in her window?",
+    "correctAnswer": "Scarlet",
+    "category": "Conquest",
+    "difficulty": "beginner",
+    "references": [
+      "Joshua 2:17-21"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-gibeon-deception",
+    "stem": "Which city's inhabitants used worn sacks, old wineskins and dry bread to seek a covenant with Joshua?",
+    "correctAnswer": "Gibeon's",
+    "category": "Conquest",
+    "difficulty": "intermediate",
+    "references": [
+      "Joshua 9:3-6,12-15"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-caleb-hebron",
+    "stem": "Which city did Joshua give to Caleb as his inheritance?",
+    "correctAnswer": "Hebron",
+    "category": "Tribal territories",
+    "difficulty": "intermediate",
+    "references": [
+      "Joshua 14:13-14"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-shiloh-tent",
+    "stem": "Where did Israel assemble and set up the tent of meeting after the land was subdued?",
+    "correctAnswer": "Shiloh",
+    "category": "Tabernacle and temple",
+    "difficulty": "intermediate",
+    "references": [
+      "Joshua 18:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-othniel-city",
+    "stem": "Which city did Othniel capture before receiving Achsah as his wife?",
+    "correctAnswer": "Kiriath-sepher",
+    "category": "Conquest",
+    "difficulty": "advanced",
+    "references": [
+      "Judges 1:11-13"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ehud-hand",
+    "stem": "Which judge is described as left-handed in the account of Eglon's death?",
+    "correctAnswer": "Ehud",
+    "category": "Judges",
+    "difficulty": "beginner",
+    "references": [
+      "Judges 3:15-21"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-shamgar-weapon",
+    "stem": "What implement did Shamgar use against six hundred Philistines?",
+    "correctAnswer": "An oxgoad",
+    "category": "Judges",
+    "difficulty": "intermediate",
+    "references": [
+      "Judges 3:31"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-gideon-father",
+    "stem": "Who was Gideon's father, associated with the oak at Ophrah?",
+    "correctAnswer": "Joash",
+    "category": "Genealogy",
+    "difficulty": "intermediate",
+    "references": [
+      "Judges 6:11"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-jephthah-shibboleth",
+    "stem": "Which word did the Gileadites require fugitives to pronounce at the Jordan crossings?",
+    "correctAnswer": "Shibboleth",
+    "category": "Wars and battles",
+    "difficulty": "advanced",
+    "references": [
+      "Judges 12:5-6"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ruth-harvest",
+    "stem": "Which harvest was beginning when Naomi and Ruth arrived in Bethlehem?",
+    "correctAnswer": "Barley",
+    "category": "Family and customs",
+    "difficulty": "intermediate",
+    "references": [
+      "Ruth 1:22"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ruth-sandal",
+    "stem": "What object was removed and given to confirm the transaction in Ruth 4?",
+    "correctAnswer": "A sandal",
+    "category": "Family and customs",
+    "difficulty": "advanced",
+    "references": [
+      "Ruth 4:7-8"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-hannah-priest",
+    "stem": "Which priest initially mistook Hannah's silent prayer for drunkenness?",
+    "correctAnswer": "Eli",
+    "category": "Early monarchy",
+    "difficulty": "beginner",
+    "references": [
+      "1 Samuel 1:12-17"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-eben-ezer",
+    "stem": "What name did Samuel give the stone set between Mizpah and Shen after Israel's deliverance?",
+    "correctAnswer": "Ebenezer",
+    "category": "Place names",
+    "difficulty": "intermediate",
+    "references": [
+      "1 Samuel 7:12"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-david-bread",
+    "stem": "Which priest gave David holy bread at Nob?",
+    "correctAnswer": "Ahimelech",
+    "category": "Priesthood",
+    "difficulty": "intermediate",
+    "references": [
+      "1 Samuel 21:1-6"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-asahel-pursuit",
+    "stem": "Which brother of Joab pursued Abner despite repeated warnings and was killed by him?",
+    "correctAnswer": "Asahel",
+    "category": "Wars and battles",
+    "difficulty": "advanced",
+    "references": [
+      "2 Samuel 2:18-23"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-mephibosheth-son",
+    "stem": "What was the name of Jonathan's grandson, the young son of Mephibosheth?",
+    "correctAnswer": "Mica",
+    "category": "Genealogy",
+    "difficulty": "advanced",
+    "references": [
+      "2 Samuel 9:12"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-hushai-counsel",
+    "stem": "Whose counsel did Absalom and the men of Israel prefer to Ahithophel's?",
+    "correctAnswer": "Hushai the Archite's",
+    "category": "Early monarchy",
+    "difficulty": "intermediate",
+    "references": [
+      "2 Samuel 17:14"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-solomon-request",
+    "stem": "What did Solomon ask God to give him so that he could judge the people?",
+    "correctAnswer": "An understanding heart",
+    "category": "Kings and succession",
+    "difficulty": "beginner",
+    "references": [
+      "1 Kings 3:9"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ahijah-cloak",
+    "stem": "How many pieces of Ahijah's torn garment did he tell Jeroboam to take?",
+    "correctAnswer": "Ten",
+    "category": "Prophets",
+    "difficulty": "advanced",
+    "references": [
+      "1 Kings 11:29-31"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-cherith-ravens",
+    "stem": "At which brook did ravens bring Elijah bread and meat?",
+    "correctAnswer": "Cherith",
+    "category": "Geography",
+    "difficulty": "intermediate",
+    "references": [
+      "1 Kings 17:3-6"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-obadiah-hide",
+    "stem": "How did Ahab's household steward Obadiah shelter a hundred prophets?",
+    "correctAnswer": "In two groups of fifty in caves",
+    "category": "Obscure people",
+    "difficulty": "advanced",
+    "references": [
+      "1 Kings 18:3-4"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-naaman-servant",
+    "stem": "Which servant pursued Naaman to obtain gifts after Elisha had refused payment?",
+    "correctAnswer": "Gehazi",
+    "category": "Obscure people",
+    "difficulty": "intermediate",
+    "references": [
+      "2 Kings 5:20-24"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-huldah-husband",
+    "stem": "Whose wife was Huldah, the prophetess consulted by Josiah's officials?",
+    "correctAnswer": "Shallum the keeper of the wardrobe",
+    "category": "Genealogy",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 22:14"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-sennacherib-successor",
+    "stem": "Who succeeded Sennacherib after Adrammelech and Sharezer killed him?",
+    "correctAnswer": "Esarhaddon",
+    "category": "Kings and succession",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 19:37"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-jabez-prayer",
+    "stem": "Who prayed for blessing, an enlarged border and protection from harm in 1 Chronicles 4?",
+    "correctAnswer": "Jabez",
+    "category": "Obscure people",
+    "difficulty": "intermediate",
+    "references": [
+      "1 Chronicles 4:9-10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-athan-david",
+    "stem": "In the list of Jesse's sons in 1 Chronicles 2, which son is placed seventh?",
+    "correctAnswer": "David",
+    "category": "Genealogy",
+    "difficulty": "intermediate",
+    "references": [
+      "1 Chronicles 2:13-15"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-uzzah-ark",
+    "stem": "Who put out his hand to hold the ark when the oxen stumbled at Chidon's threshing floor?",
+    "correctAnswer": "Uzza",
+    "category": "Tabernacle and temple",
+    "difficulty": "intermediate",
+    "references": [
+      "1 Chronicles 13:9-10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-manasseh-return",
+    "stem": "Which king was taken in fetters to Babylon and then restored to Jerusalem after humbling himself?",
+    "correctAnswer": "Manasseh",
+    "category": "Exile and restoration",
+    "difficulty": "advanced",
+    "references": [
+      "2 Chronicles 33:11-13"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-hezekiah-month",
+    "stem": "In which month did Hezekiah and the assembly decide to keep Passover because they could not keep it at the usual time?",
+    "correctAnswer": "Second",
+    "category": "Festivals",
+    "difficulty": "advanced",
+    "references": [
+      "2 Chronicles 30:1-3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-cyrus-decree",
+    "stem": "Which Persian king issued the proclamation permitting the rebuilding of the temple in Jerusalem?",
+    "correctAnswer": "Cyrus",
+    "category": "Exile and restoration",
+    "difficulty": "intermediate",
+    "references": [
+      "Ezra 1:1-3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ezra-prophets",
+    "stem": "Which two prophets encouraged the Jews when Zerubbabel and Jeshua resumed rebuilding the temple?",
+    "correctAnswer": "Haggai and Zechariah",
+    "category": "Prophets",
+    "difficulty": "advanced",
+    "references": [
+      "Ezra 5:1-2"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ezra-river",
+    "stem": "At which river did Ezra proclaim a fast to seek a safe journey for the people and their possessions?",
+    "correctAnswer": "Ahava",
+    "category": "Geography",
+    "difficulty": "advanced",
+    "references": [
+      "Ezra 8:21"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-nehemiah-job",
+    "stem": "What court office did Nehemiah hold before his journey to Jerusalem?",
+    "correctAnswer": "Cupbearer",
+    "category": "Offices and roles",
+    "difficulty": "intermediate",
+    "references": [
+      "Nehemiah 1:11"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-nehemiah-opponents",
+    "stem": "Which three men mocked the proposed rebuilding and accused the builders of rebellion?",
+    "correctAnswer": "Sanballat, Tobiah and Geshem",
+    "category": "Exile and restoration",
+    "difficulty": "advanced",
+    "references": [
+      "Nehemiah 2:19"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-nehemiah-days",
+    "stem": "How many days does Nehemiah report for completing Jerusalem's wall?",
+    "correctAnswer": "Fifty-two",
+    "category": "Exile and restoration",
+    "difficulty": "intermediate",
+    "references": [
+      "Nehemiah 6:15"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-esther-kinship",
+    "stem": "How does Esther 2 identify Esther's relationship to Mordecai before he raised her as a daughter?",
+    "correctAnswer": "His uncle's daughter",
+    "category": "Genealogy",
+    "difficulty": "advanced",
+    "references": [
+      "Esther 2:7,15"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-esther-hebrew",
+    "stem": "What other name does Esther 2 give for Esther?",
+    "correctAnswer": "Hadassah",
+    "category": "Same-name identities",
+    "difficulty": "intermediate",
+    "references": [
+      "Esther 2:7"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-esther-lots",
+    "stem": "What is the meaning of Pur that explains the name Purim in Esther?",
+    "correctAnswer": "Lot",
+    "category": "Family and customs",
+    "difficulty": "advanced",
+    "references": [
+      "Esther 3:7",
+      "Esther 9:26"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-job-land",
+    "stem": "In what land does the opening of Job place him?",
+    "correctAnswer": "Uz",
+    "category": "Geography",
+    "difficulty": "beginner",
+    "references": [
+      "Job 1:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-job-elihu",
+    "stem": "Which speaker is introduced as the son of Barachel the Buzite and says he waited because the others were older?",
+    "correctAnswer": "Elihu",
+    "category": "Wisdom and poetry",
+    "difficulty": "advanced",
+    "references": [
+      "Job 32:2-6"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-job-daughters",
+    "stem": "Which name belongs to one of the three daughters named at the end of Job?",
+    "correctAnswer": "Keren-happuch",
+    "category": "Genealogy",
+    "difficulty": "advanced",
+    "references": [
+      "Job 42:14"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-psalm-rivers",
+    "stem": "By the rivers of which land do the speakers of Psalm 137 sit and weep when remembering Zion?",
+    "correctAnswer": "Babylon",
+    "category": "Wisdom and poetry",
+    "difficulty": "intermediate",
+    "references": [
+      "Psalms 137:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-psalm-moses",
+    "stem": "To whom does the superscription of Psalm 90 attribute its prayer?",
+    "correctAnswer": "Moses",
+    "category": "Wisdom and poetry",
+    "difficulty": "advanced",
+    "references": [
+      "Psalms 90:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-proverbs-agur",
+    "stem": "Whose words, identifying him as the son of Jakeh, introduce Proverbs 30?",
+    "correctAnswer": "Agur's",
+    "category": "Wisdom and poetry",
+    "difficulty": "advanced",
+    "references": [
+      "Proverbs 30:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-proverbs-mother",
+    "stem": "Who is said to have taught King Lemuel the oracle introducing Proverbs 31?",
+    "correctAnswer": "His mother",
+    "category": "Wisdom and poetry",
+    "difficulty": "intermediate",
+    "references": [
+      "Proverbs 31:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ecc-cord",
+    "stem": "What image illustrates the strength of companionship at the close of Ecclesiastes 4:12?",
+    "correctAnswer": "A threefold cord",
+    "category": "Wisdom and poetry",
+    "difficulty": "beginner",
+    "references": [
+      "Ecclesiastes 4:12"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ecc-creator",
+    "stem": "When does Ecclesiastes urge its hearer to remember the Creator?",
+    "correctAnswer": "In the days of youth",
+    "category": "Wisdom and poetry",
+    "difficulty": "beginner",
+    "references": [
+      "Ecclesiastes 12:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-song-vineyard",
+    "stem": "Where does Song of Solomon place a vineyard belonging to Solomon?",
+    "correctAnswer": "Baal-hamon",
+    "category": "Geography",
+    "difficulty": "advanced",
+    "references": [
+      "Song of Solomon 8:11"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-song-seal",
+    "stem": "What object is the beloved asked to set upon the heart and arm in Song of Solomon 8?",
+    "correctAnswer": "A seal",
+    "category": "Wisdom and poetry",
+    "difficulty": "intermediate",
+    "references": [
+      "Song of Solomon 8:6"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-isaiah-coal",
+    "stem": "From where did the seraph take the burning coal that touched Isaiah's lips?",
+    "correctAnswer": "The altar",
+    "category": "Prophets",
+    "difficulty": "intermediate",
+    "references": [
+      "Isaiah 6:6-7"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-isaiah-son",
+    "stem": "Which son was Isaiah told to take when meeting Ahaz at the end of the upper pool's conduit?",
+    "correctAnswer": "Shear-jashub",
+    "category": "Genealogy",
+    "difficulty": "advanced",
+    "references": [
+      "Isaiah 7:3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-jeremiah-scroll",
+    "stem": "Who wrote Jeremiah's dictated words on a scroll?",
+    "correctAnswer": "Baruch son of Neriah",
+    "category": "Obscure people",
+    "difficulty": "intermediate",
+    "references": [
+      "Jeremiah 36:4"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-jeremiah-field",
+    "stem": "From whom did Jeremiah buy a field in Anathoth while Jerusalem was under threat?",
+    "correctAnswer": "Hanamel son of Shallum",
+    "category": "Law and inheritance",
+    "difficulty": "advanced",
+    "references": [
+      "Jeremiah 32:7-9"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-lam-new",
+    "stem": "What does Lamentations describe as new every morning in its declaration of God's faithfulness?",
+    "correctAnswer": "His compassions",
+    "category": "Wisdom and poetry",
+    "difficulty": "beginner",
+    "references": [
+      "Lamentations 3:22-23"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-lam-alone",
+    "stem": "What image describes the formerly populous city in the opening of Lamentations?",
+    "correctAnswer": "A widow sitting alone",
+    "category": "Wisdom and poetry",
+    "difficulty": "intermediate",
+    "references": [
+      "Lamentations 1:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ezekiel-river",
+    "stem": "Beside which river was Ezekiel among the exiles when the opening visions occurred?",
+    "correctAnswer": "Chebar",
+    "category": "Geography",
+    "difficulty": "intermediate",
+    "references": [
+      "Ezekiel 1:1-3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ezekiel-father",
+    "stem": "Who is named as the father of Ezekiel the priest?",
+    "correctAnswer": "Buzi",
+    "category": "Genealogy",
+    "difficulty": "advanced",
+    "references": [
+      "Ezekiel 1:3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-daniel-names",
+    "stem": "Which Hebrew name belonged to the companion renamed Abed-nego?",
+    "correctAnswer": "Azariah",
+    "category": "Same-name identities",
+    "difficulty": "intermediate",
+    "references": [
+      "Daniel 1:6-7"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-daniel-wall",
+    "stem": "During whose feast did fingers appear and write on the wall of the king's palace?",
+    "correctAnswer": "Belshazzar's",
+    "category": "Exile and restoration",
+    "difficulty": "intermediate",
+    "references": [
+      "Daniel 5:1-5"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-hosea-wife",
+    "stem": "Whom does Hosea name as his wife, the daughter of Diblaim?",
+    "correctAnswer": "Gomer",
+    "category": "Genealogy",
+    "difficulty": "intermediate",
+    "references": [
+      "Hosea 1:3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-joel-valley",
+    "stem": "Into which named valley does Joel say the nations will be gathered for judgment?",
+    "correctAnswer": "The valley of Jehoshaphat",
+    "category": "Prophets",
+    "difficulty": "advanced",
+    "references": [
+      "Joel 3:2"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-obadiah-nation",
+    "stem": "Which nation is named as the subject of the opening oracle in Obadiah?",
+    "correctAnswer": "Edom",
+    "category": "Prophets",
+    "difficulty": "intermediate",
+    "references": [
+      "Obadiah 1:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-obadiah-brother",
+    "stem": "Against which brother does Obadiah say Edom committed violence?",
+    "correctAnswer": "Jacob",
+    "category": "Prophets",
+    "difficulty": "advanced",
+    "references": [
+      "Obadiah 1:10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-jonah-port",
+    "stem": "At which port did Jonah find a ship bound for Tarshish?",
+    "correctAnswer": "Joppa",
+    "category": "Geography",
+    "difficulty": "beginner",
+    "references": [
+      "Jonah 1:3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-jonah-days",
+    "stem": "How many days did Jonah announce before Nineveh would be overthrown?",
+    "correctAnswer": "Forty",
+    "category": "Prophets",
+    "difficulty": "intermediate",
+    "references": [
+      "Jonah 3:4"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-micah-town",
+    "stem": "What place-based designation is attached to Micah in his book's opening verse?",
+    "correctAnswer": "The Morashtite",
+    "category": "Prophets",
+    "difficulty": "advanced",
+    "references": [
+      "Micah 1:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-micah-requirement",
+    "stem": "Which combination does Micah 6:8 say Jehovah requires?",
+    "correctAnswer": "Justice, kindness and humble walking with God",
+    "category": "Law and ethics",
+    "difficulty": "beginner",
+    "references": [
+      "Micah 6:8"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-nahum-city",
+    "stem": "Which city is named in the heading of Nahum's oracle?",
+    "correctAnswer": "Nineveh",
+    "category": "Prophets",
+    "difficulty": "intermediate",
+    "references": [
+      "Nahum 1:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-nahum-noamon",
+    "stem": "Which city does Nahum use as a comparison, describing it as situated among the rivers with waters around it?",
+    "correctAnswer": "No-amon",
+    "category": "Geography",
+    "difficulty": "advanced",
+    "references": [
+      "Nahum 3:8"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-hab-chaldeans",
+    "stem": "Which people does Habakkuk describe as being raised up as a bitter and hasty nation?",
+    "correctAnswer": "The Chaldeans",
+    "category": "Prophets",
+    "difficulty": "intermediate",
+    "references": [
+      "Habakkuk 1:6"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-hab-fig",
+    "stem": "Despite the failure of crops and livestock, what response does Habakkuk's closing prayer express?",
+    "correctAnswer": "Rejoicing in the God of salvation",
+    "category": "Wisdom and poetry",
+    "difficulty": "intermediate",
+    "references": [
+      "Habakkuk 3:17-18"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-zeph-king",
+    "stem": "During whose reign does Zephaniah's opening date his message?",
+    "correctAnswer": "Josiah's",
+    "category": "Prophets",
+    "difficulty": "advanced",
+    "references": [
+      "Zephaniah 1:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-zeph-father",
+    "stem": "Who is named immediately as Zephaniah's father in his opening genealogy?",
+    "correctAnswer": "Cushi",
+    "category": "Genealogy",
+    "difficulty": "advanced",
+    "references": [
+      "Zephaniah 1:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-haggai-priest",
+    "stem": "Who is named as high priest alongside Zerubbabel in Haggai's opening message?",
+    "correctAnswer": "Joshua son of Jehozadak",
+    "category": "Priesthood",
+    "difficulty": "advanced",
+    "references": [
+      "Haggai 1:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-haggai-houses",
+    "stem": "What contrast does Haggai draw when urging the people to rebuild?",
+    "correctAnswer": "Their panelled houses and God's ruined house",
+    "category": "Tabernacle and temple",
+    "difficulty": "intermediate",
+    "references": [
+      "Haggai 1:4-8"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-zech-horse",
+    "stem": "Among what trees does Zechariah's first night vision place the rider on a red horse?",
+    "correctAnswer": "Myrtle trees",
+    "category": "Prophets",
+    "difficulty": "advanced",
+    "references": [
+      "Zechariah 1:8"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-zech-priest",
+    "stem": "Which high priest appears before the angel in filthy garments that are then removed?",
+    "correctAnswer": "Joshua",
+    "category": "Priesthood",
+    "difficulty": "intermediate",
+    "references": [
+      "Zechariah 3:1-4"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-malachi-messenger",
+    "stem": "What task is assigned to the messenger at the beginning of Malachi 3?",
+    "correctAnswer": "Preparing the way before the Lord",
+    "category": "Prophets",
+    "difficulty": "intermediate",
+    "references": [
+      "Malachi 3:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-malachi-storehouse",
+    "stem": "Where does Malachi instruct the people to bring the whole tithe?",
+    "correctAnswer": "The storehouse",
+    "category": "Law and ethics",
+    "difficulty": "beginner",
+    "references": [
+      "Malachi 3:10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-matt-gifts",
+    "stem": "Which three gifts did the wise men present to the child Jesus?",
+    "correctAnswer": "Gold, frankincense and myrrh",
+    "category": "Gospels",
+    "difficulty": "beginner",
+    "references": [
+      "Matthew 2:11"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-matt-archelaus",
+    "stem": "Whose rule in Judea made Joseph afraid to return there after Herod's death?",
+    "correctAnswer": "Archelaus's",
+    "category": "Kings and succession",
+    "difficulty": "advanced",
+    "references": [
+      "Matthew 2:22"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-matt-tax",
+    "stem": "Which disciple was told to find a coin in a fish's mouth to pay the temple tax?",
+    "correctAnswer": "Peter",
+    "category": "Gospels",
+    "difficulty": "intermediate",
+    "references": [
+      "Matthew 17:24-27"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-matt-potter",
+    "stem": "What did the chief priests purchase with the returned silver, according to Matthew?",
+    "correctAnswer": "The potter's field for burying strangers",
+    "category": "Geography",
+    "difficulty": "advanced",
+    "references": [
+      "Matthew 27:6-8"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-mark-bartimaeus",
+    "stem": "In Mark's account, whose son was the blind beggar Bartimaeus?",
+    "correctAnswer": "Timaeus'",
+    "category": "Same-name identities",
+    "difficulty": "intermediate",
+    "references": [
+      "Mark 10:46"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-mark-simon",
+    "stem": "Which two sons are named to identify Simon of Cyrene in Mark's crucifixion account?",
+    "correctAnswer": "Alexander and Rufus",
+    "category": "Genealogy",
+    "difficulty": "advanced",
+    "references": [
+      "Mark 15:21"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-mark-executioner",
+    "stem": "Who physically beheaded John the Baptist after the king sent an order?",
+    "correctAnswer": "An executioner sent by the king",
+    "category": "Royal deaths",
+    "difficulty": "advanced",
+    "references": [
+      "Mark 6:27-28"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-luke-anna-tribe",
+    "stem": "From which tribe was Anna, the prophetess who spoke about Jesus at the temple?",
+    "correctAnswer": "Asher",
+    "category": "Genealogy",
+    "difficulty": "advanced",
+    "references": [
+      "Luke 2:36"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-luke-joanna",
+    "stem": "Whose wife was Joanna, one of the women who provided for Jesus' ministry?",
+    "correctAnswer": "Chuza's",
+    "category": "Genealogy",
+    "difficulty": "advanced",
+    "references": [
+      "Luke 8:3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-luke-emmaus",
+    "stem": "Which of the two travellers on the road to Emmaus is named in Luke's account?",
+    "correctAnswer": "Cleopas",
+    "category": "Obscure people",
+    "difficulty": "intermediate",
+    "references": [
+      "Luke 24:18"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-luke-naaman",
+    "stem": "Which foreigner healed in Elisha's time does Jesus mention in the synagogue at Nazareth?",
+    "correctAnswer": "Naaman the Syrian",
+    "category": "Scriptural connections",
+    "difficulty": "intermediate",
+    "references": [
+      "Luke 4:27"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-john-cana",
+    "stem": "At which Galilean town did Jesus turn water into wine at a wedding?",
+    "correctAnswer": "Cana",
+    "category": "Geography",
+    "difficulty": "beginner",
+    "references": [
+      "John 2:1-11"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-john-servant",
+    "stem": "What name does John give the high priest's servant whose ear Peter cut off?",
+    "correctAnswer": "Malchus",
+    "category": "Obscure people",
+    "difficulty": "intermediate",
+    "references": [
+      "John 18:10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-john-nathanael",
+    "stem": "Who invited Nathanael to come and see after Nathanael questioned whether good could come from Nazareth?",
+    "correctAnswer": "Philip",
+    "category": "Gospels",
+    "difficulty": "intermediate",
+    "references": [
+      "John 1:45-46"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-john-nicodemus",
+    "stem": "Who visited Jesus by night and later brought myrrh and aloes for his burial?",
+    "correctAnswer": "Nicodemus",
+    "category": "Gospels",
+    "difficulty": "intermediate",
+    "references": [
+      "John 3:1-2",
+      "John 19:39"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-acts-seven",
+    "stem": "Which of the seven chosen in Acts 6 is identified as a proselyte from Antioch?",
+    "correctAnswer": "Nicolaus",
+    "category": "Early church",
+    "difficulty": "intermediate",
+    "references": [
+      "Acts 6:5"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-acts-gaza",
+    "stem": "Toward which city did the angel direct Philip along the road from Jerusalem?",
+    "correctAnswer": "Gaza",
+    "category": "Geography",
+    "difficulty": "intermediate",
+    "references": [
+      "Acts 8:26"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-acts-tanner",
+    "stem": "Which Simon was hosting Peter in a house by the sea at Joppa?",
+    "correctAnswer": "Simon the tanner",
+    "category": "Same-name identities",
+    "difficulty": "advanced",
+    "references": [
+      "Acts 10:5-6"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-acts-eutychus",
+    "stem": "In which city did Eutychus fall from a third-storey window during Paul's speech?",
+    "correctAnswer": "Troas",
+    "category": "Geography",
+    "difficulty": "intermediate",
+    "references": [
+      "Acts 20:6-9"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-acts-miletus",
+    "stem": "From which city did Paul summon the elders of the church at Ephesus to meet him?",
+    "correctAnswer": "Miletus",
+    "category": "Geography",
+    "difficulty": "advanced",
+    "references": [
+      "Acts 20:17"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-romans-coworkers",
+    "stem": "Which married coworkers does Paul thank for risking their necks for his life?",
+    "correctAnswer": "Prisca and Aquila",
+    "category": "Early church",
+    "difficulty": "intermediate",
+    "references": [
+      "Romans 16:3-4"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-corinth-collection",
+    "stem": "On which day did Paul tell the Corinthians to set aside money for the collection?",
+    "correctAnswer": "The first day of the week",
+    "category": "Early church",
+    "difficulty": "intermediate",
+    "references": [
+      "1 Corinthians 16:1-2"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-corinth-window",
+    "stem": "In which city did Paul escape through a window in the wall in a basket while a governor sought to seize him?",
+    "correctAnswer": "Damascus",
+    "category": "Geography",
+    "difficulty": "advanced",
+    "references": [
+      "2 Corinthians 11:32-33"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-corinth-pledge",
+    "stem": "Whom does Paul thank God for giving earnest care for the Corinthians, saying that he went of his own accord?",
+    "correctAnswer": "Titus",
+    "category": "Early church",
+    "difficulty": "advanced",
+    "references": [
+      "2 Corinthians 8:16-17"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-galatians-opposition",
+    "stem": "In which city does Paul say he opposed Cephas publicly over his withdrawal from eating with Gentiles?",
+    "correctAnswer": "Antioch",
+    "category": "Early church",
+    "difficulty": "advanced",
+    "references": [
+      "Galatians 2:11-14"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-galatians-allegory",
+    "stem": "In Paul's explicitly allegorical discussion, which woman is associated with Mount Sinai and the present Jerusalem?",
+    "correctAnswer": "Hagar",
+    "category": "Textual nuance",
+    "difficulty": "advanced",
+    "references": [
+      "Galatians 4:24-26"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ephesians-messenger",
+    "stem": "Whom does Paul say he has sent so that the Ephesians may know his circumstances and be comforted?",
+    "correctAnswer": "Tychicus",
+    "category": "Early church",
+    "difficulty": "intermediate",
+    "references": [
+      "Ephesians 6:21-22"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-ephesians-shield",
+    "stem": "What does the armour imagery in Ephesians identify as the shield?",
+    "correctAnswer": "Faith",
+    "category": "Literary imagery",
+    "difficulty": "beginner",
+    "references": [
+      "Ephesians 6:16"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-philippians-messenger",
+    "stem": "Which Philippian messenger became so ill that he nearly died while serving Paul?",
+    "correctAnswer": "Epaphroditus",
+    "category": "Early church",
+    "difficulty": "intermediate",
+    "references": [
+      "Philippians 2:25-30"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-philippians-pair",
+    "stem": "Which two women does Paul urge to be of the same mind in the Lord?",
+    "correctAnswer": "Euodia and Syntyche",
+    "category": "Early church",
+    "difficulty": "intermediate",
+    "references": [
+      "Philippians 4:2"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-colossians-physician",
+    "stem": "Who is called the beloved physician in Colossians?",
+    "correctAnswer": "Luke",
+    "category": "Offices and roles",
+    "difficulty": "beginner",
+    "references": [
+      "Colossians 4:14"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-thess-timothy",
+    "stem": "Whom did Paul send to establish and encourage the Thessalonians while remaining at Athens?",
+    "correctAnswer": "Timothy",
+    "category": "Early church",
+    "difficulty": "advanced",
+    "references": [
+      "1 Thessalonians 3:1-2"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-thess-work",
+    "stem": "What distinction is essential to Paul's instruction about work and eating in 2 Thessalonians 3:10?",
+    "correctAnswer": "Unwillingness to work",
+    "category": "Law and ethics",
+    "difficulty": "intermediate",
+    "references": [
+      "2 Thessalonians 3:10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-timothy-city",
+    "stem": "In which city did Paul urge Timothy to remain when Paul went to Macedonia?",
+    "correctAnswer": "Ephesus",
+    "category": "Geography",
+    "difficulty": "intermediate",
+    "references": [
+      "1 Timothy 1:3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-timothy-elders",
+    "stem": "What evidentiary condition does 1 Timothy give for receiving an accusation against an elder?",
+    "correctAnswer": "Two or three witnesses",
+    "category": "Law and ethics",
+    "difficulty": "advanced",
+    "references": [
+      "1 Timothy 5:19"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-hebrews-ark",
+    "stem": "Which set of objects does Hebrews associate with the ark of the covenant?",
+    "correctAnswer": "The manna pot, Aaron's rod and covenant tablets",
+    "category": "Tabernacle and temple",
+    "difficulty": "advanced",
+    "references": [
+      "Hebrews 9:4"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-peter-regions",
+    "stem": "Which region is included in the opening address of 1 Peter?",
+    "correctAnswer": "Bithynia",
+    "category": "Geography",
+    "difficulty": "advanced",
+    "references": [
+      "1 Peter 1:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-peter-letters",
+    "stem": "Whose letters does 2 Peter describe as containing some things hard to understand?",
+    "correctAnswer": "Paul's",
+    "category": "Textual nuance",
+    "difficulty": "advanced",
+    "references": [
+      "2 Peter 3:15-16"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-john-advocate",
+    "stem": "Who is named as the advocate with the Father in 1 John 2?",
+    "correctAnswer": "Jesus Christ the righteous",
+    "category": "Literary imagery",
+    "difficulty": "beginner",
+    "references": [
+      "1 John 2:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-john-paper",
+    "stem": "What form of communication does the writer of 2 John hope will replace further writing with paper and ink?",
+    "correctAnswer": "Speaking face to face",
+    "category": "Early church",
+    "difficulty": "intermediate",
+    "references": [
+      "2 John 1:12"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-revelation-smyrna",
+    "stem": "Which church is told to be faithful unto death and promised the crown of life in Revelation 2?",
+    "correctAnswer": "Smyrna",
+    "category": "Early church",
+    "difficulty": "advanced",
+    "references": [
+      "Revelation 2:8-10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "bible-q-revelation-river",
+    "stem": "From where does the river of the water of life flow in Revelation's closing vision?",
+    "correctAnswer": "The throne of God and the Lamb",
+    "category": "Literary imagery",
+    "difficulty": "intermediate",
+    "references": [
+      "Revelation 22:1-2"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|samuel:anoints-kings",
+    "stem": "Which prophet anointed both Saul and David as king?",
+    "correctAnswer": "Samuel",
+    "category": "Prophets",
+    "difficulty": "intermediate",
+    "references": [
+      "1 Samuel 10:1",
+      "1 Samuel 16:13"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|nathan:ewe-lamb",
+    "stem": "Which prophet confronted David with the story of a rich man taking a poor man's ewe lamb?",
+    "correctAnswer": "Nathan",
+    "category": "Prophets",
+    "difficulty": "intermediate",
+    "references": [
+      "2 Samuel 12:1-7"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|elisha:naaman",
+    "stem": "Which prophet sent Naaman instructions to wash seven times in the Jordan?",
+    "correctAnswer": "Elisha",
+    "category": "Prophets",
+    "difficulty": "intermediate",
+    "references": [
+      "2 Kings 5:8-14"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|hezekiah:isaiah-sennacherib",
+    "stem": "Which king received Isaiah's assurance during the Assyrian threat and a promise of fifteen added years?",
+    "correctAnswer": "Hezekiah",
+    "category": "Kings and succession",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 19:1-7",
+      "2 Kings 20:5-6"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|josiah:book-of-law",
+    "stem": "Which king began reigning at eight and heard the law book found during temple repairs?",
+    "correctAnswer": "Josiah",
+    "category": "Kings and succession",
+    "difficulty": "intermediate",
+    "references": [
+      "2 Kings 22:1,8-11"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|isaiah:call-uzziah",
+    "stem": "In the year of which king's death did Isaiah see the Lord seated on a high throne?",
+    "correctAnswer": "Uzziah",
+    "category": "Prophets",
+    "difficulty": "intermediate",
+    "references": [
+      "Isaiah 6:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|jehoiakim:scroll",
+    "stem": "Which king cut Jeremiah's scroll with a penknife and burned it as Jehudi read it?",
+    "correctAnswer": "Jehoiakim",
+    "category": "Kings and succession",
+    "difficulty": "advanced",
+    "references": [
+      "Jeremiah 36:9,21-23"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|uzziah:leprosy",
+    "stem": "Which king was struck with leprosy after entering the temple to burn incense despite the priests' warning?",
+    "correctAnswer": "Uzziah",
+    "category": "Priesthood",
+    "difficulty": "advanced",
+    "references": [
+      "2 Chronicles 26:1,16-21"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|jehu:anointed",
+    "stem": "Which commander was called out from his fellow officers at Ramoth-gilead and anointed king by Elisha's messenger?",
+    "correctAnswer": "Jehu",
+    "category": "Kings and succession",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 9:1-6"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|deborah:palm-tree",
+    "stem": "Which prophetess judged Israel under a palm tree between Ramah and Bethel?",
+    "correctAnswer": "Deborah",
+    "category": "Judges",
+    "difficulty": "intermediate",
+    "references": [
+      "Judges 4:4-5"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|gideon:three-hundred",
+    "stem": "Whose army was reduced first by sending the fearful home and then by a drinking test to three hundred men?",
+    "correctAnswer": "Gideon's",
+    "category": "Wars and battles",
+    "difficulty": "intermediate",
+    "references": [
+      "Judges 7:2-7"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|abiathar:nob",
+    "stem": "Which son of Ahimelech escaped the killing of the priests and fled to David?",
+    "correctAnswer": "Abiathar",
+    "category": "Priesthood",
+    "difficulty": "advanced",
+    "references": [
+      "1 Samuel 22:20-23"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|jehoiada:joash",
+    "stem": "Which priest organised the guards and the coronation of Joash that ended Athaliah's rule?",
+    "correctAnswer": "Jehoiada",
+    "category": "Priesthood",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 11:4-16"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|caiaphas:trial",
+    "stem": "Which high priest tore his garments during Jesus' hearing in Matthew 26?",
+    "correctAnswer": "Caiaphas",
+    "category": "Priesthood",
+    "difficulty": "advanced",
+    "references": [
+      "Matthew 26:57-65"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|huldah:book-of-law",
+    "stem": "Which prophetess did Josiah's officials consult after finding the Book of the Law?",
+    "correctAnswer": "Huldah",
+    "category": "Prophets",
+    "difficulty": "intermediate",
+    "references": [
+      "2 Kings 22:14-20"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|ruth:boaz-david",
+    "stem": "Which Moabite woman became the mother of Obed, the father of Jesse?",
+    "correctAnswer": "Ruth",
+    "category": "Genealogy",
+    "difficulty": "intermediate",
+    "references": [
+      "Ruth 4:13-17"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|rahab:jericho-matthew-hebrews",
+    "stem": "Which woman sheltered spies at Jericho, appears as Boaz's mother in Matthew, and is named in Hebrews' examples of faith?",
+    "correctAnswer": "Rahab",
+    "category": "Scriptural connections",
+    "difficulty": "mastery",
+    "references": [
+      "Joshua 2:1-4",
+      "Matthew 1:5",
+      "Hebrews 11:31"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|thomas:absent",
+    "stem": "Which apostle was absent at the earlier appearance and later addressed Jesus as his Lord and God?",
+    "correctAnswer": "Thomas",
+    "category": "Gospels",
+    "difficulty": "beginner",
+    "references": [
+      "John 20:24-28"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|boaz:david-relation",
+    "stem": "In Ruth's recorded line Boaz, Obed, Jesse, David, what relationship does Boaz have to David?",
+    "correctAnswer": "Great-grandfather",
+    "category": "Genealogy",
+    "difficulty": "intermediate",
+    "references": [
+      "Ruth 4:21-22"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|samuel:obey-sacrifice",
+    "stem": "Who told Saul that obedience was better than sacrifice after the sparing of Agag and the livestock?",
+    "correctAnswer": "Samuel",
+    "category": "Prophets",
+    "difficulty": "intermediate",
+    "references": [
+      "1 Samuel 15:20-23"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|ruth:whither-thou-goest",
+    "stem": "Who pledged to go where another went and accept her people and God in Ruth 1?",
+    "correctAnswer": "Ruth to Naomi",
+    "category": "Family and customs",
+    "difficulty": "intermediate",
+    "references": [
+      "Ruth 1:16-17"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|ahasuerus:jewish-defense",
+    "stem": "Under whose authority did Esther and Mordecai issue the decree allowing the Jews to defend themselves?",
+    "correctAnswer": "Ahasuerus's",
+    "category": "Exile and restoration",
+    "difficulty": "advanced",
+    "references": [
+      "Esther 8:7-11"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|nebuchadnezzar:jehoiachin",
+    "stem": "Which king took Jehoiachin captive and installed his uncle Mattaniah, renaming him Zedekiah?",
+    "correctAnswer": "Nebuchadnezzar",
+    "category": "Exile and restoration",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 24:10-17"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|ezra:reads-law",
+    "stem": "Who brought the law book before the assembly and read it from early morning until midday?",
+    "correctAnswer": "Ezra",
+    "category": "Exile and restoration",
+    "difficulty": "intermediate",
+    "references": [
+      "Nehemiah 8:1-3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|markfam",
+    "stem": "Whom did Barnabas and Saul take with them after completing their relief service, according to Acts 12:25?",
+    "correctAnswer": "John Mark",
+    "category": "Early church",
+    "difficulty": "advanced",
+    "references": [
+      "Acts 12:25"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|adonijah",
+    "stem": "Which son of David sought the throne with Joab and Abiathar supporting him?",
+    "correctAnswer": "Adonijah",
+    "category": "Kings and succession",
+    "difficulty": "advanced",
+    "references": [
+      "1 Kings 1:5-10"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|mephi",
+    "stem": "Which member of Saul's house was lame in both feet and ate at David's table for Jonathan's sake?",
+    "correctAnswer": "Mephibosheth son of Jonathan",
+    "category": "Same-name identities",
+    "difficulty": "advanced",
+    "references": [
+      "2 Samuel 9:1-13"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|flight",
+    "stem": "In Samuel's narrative, which sequence correctly orders these places in David's flight and campaigns?",
+    "correctAnswer": "Nob, Gath, Adullam, Keilah",
+    "category": "Chronology",
+    "difficulty": "mastery",
+    "references": [
+      "1 Samuel 21:1,10",
+      "1 Samuel 22:1",
+      "1 Samuel 23:5"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|carmel",
+    "stem": "Immediately after the killing of Baal's prophets at Kishon, what did Elijah tell Ahab to do?",
+    "correctAnswer": "Go up, eat and drink",
+    "category": "Chronology",
+    "difficulty": "advanced",
+    "references": [
+      "1 Kings 18:40-42"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|thess",
+    "stem": "Which two cities did Paul and Silas pass through before reaching Thessalonica in Acts 17?",
+    "correctAnswer": "Amphipolis and Apollonia",
+    "category": "Geography",
+    "difficulty": "advanced",
+    "references": [
+      "Acts 17:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|satan-census",
+    "stem": "Which account names Satan as provoking David to number Israel, whereas the parallel opens with Jehovah's anger?",
+    "correctAnswer": "1 Chronicles",
+    "category": "Textual nuance",
+    "difficulty": "mastery",
+    "references": [
+      "1 Chronicles 21:1",
+      "2 Samuel 24:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|elah",
+    "stem": "In which valley were Saul's forces arrayed against the Philistines when David faced Goliath?",
+    "correctAnswer": "Elah",
+    "category": "Geography",
+    "difficulty": "beginner",
+    "references": [
+      "1 Samuel 17:2"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|azotus",
+    "stem": "Where was Philip found after the Ethiopian official's baptism?",
+    "correctAnswer": "Azotus",
+    "category": "Geography",
+    "difficulty": "intermediate",
+    "references": [
+      "Acts 8:39-40"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|matthias",
+    "stem": "Who was numbered with the eleven apostles after the lot was cast between him and Joseph Barsabbas?",
+    "correctAnswer": "Matthias",
+    "category": "Early church",
+    "difficulty": "beginner",
+    "references": [
+      "Acts 1:23-26"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|house-prayer",
+    "stem": "Which prophet supplies the house-of-prayer part of Jesus' saying during the temple cleansing, rather than the den-of-robbers part?",
+    "correctAnswer": "Isaiah",
+    "category": "Scriptural connections",
+    "difficulty": "mastery",
+    "references": [
+      "Matthew 21:13",
+      "Isaiah 56:7",
+      "Jeremiah 7:11"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|felix:paul-prison",
+    "stem": "Which governor left Paul imprisoned when Porcius Festus succeeded him?",
+    "correctAnswer": "Felix",
+    "category": "Offices and roles",
+    "difficulty": "advanced",
+    "references": [
+      "Acts 24:27"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|gallio:corinth",
+    "stem": "Which proconsul refused to judge the religious charges brought against Paul at Corinth?",
+    "correctAnswer": "Gallio",
+    "category": "Offices and roles",
+    "difficulty": "advanced",
+    "references": [
+      "Acts 18:12-17"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|silas:philippi",
+    "stem": "Who was imprisoned with Paul at Philippi after the incident with the slave girl?",
+    "correctAnswer": "Silas",
+    "category": "Early church",
+    "difficulty": "intermediate",
+    "references": [
+      "Acts 16:19-25"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|titus:crete",
+    "stem": "Whom had Paul left in Crete to put matters in order and appoint elders?",
+    "correctAnswer": "Titus",
+    "category": "Early church",
+    "difficulty": "intermediate",
+    "references": [
+      "Titus 1:5"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|timothy:circumcised",
+    "stem": "Which disciple, whose mother was Jewish and father Greek, did Paul circumcise before taking him along?",
+    "correctAnswer": "Timothy",
+    "category": "Early church",
+    "difficulty": "intermediate",
+    "references": [
+      "Acts 16:1-3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|ananias:damascus",
+    "stem": "Who was instructed in a vision to visit Saul at Judas's house on Straight Street?",
+    "correctAnswer": "Ananias the Damascus disciple",
+    "category": "Same-name identities",
+    "difficulty": "advanced",
+    "references": [
+      "Acts 9:10-18"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|isaiah:voice-john",
+    "stem": "Which prophet supplies Matthew's voice-in-the-wilderness passage applied to John the Baptist?",
+    "correctAnswer": "Isaiah",
+    "category": "Scriptural connections",
+    "difficulty": "advanced",
+    "references": [
+      "Matthew 3:3",
+      "Isaiah 40:3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|micah:bethlehem",
+    "stem": "Which prophetic book contains the Bethlehem ruler passage cited in Matthew's account of Herod's inquiry?",
+    "correctAnswer": "Micah",
+    "category": "Scriptural connections",
+    "difficulty": "advanced",
+    "references": [
+      "Matthew 2:4-6",
+      "Micah 5:2"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|jonah:sign",
+    "stem": "Whose time in the great fish did Jesus compare with the Son of man's time in the heart of the earth?",
+    "correctAnswer": "Jonah's",
+    "category": "Scriptural connections",
+    "difficulty": "intermediate",
+    "references": [
+      "Matthew 12:39-40",
+      "Jonah 1:17"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|david:throne-promise",
+    "stem": "Whose throne did Gabriel say Mary's son would receive, echoing the enduring kingdom promise in 2 Samuel 7?",
+    "correctAnswer": "David's",
+    "category": "Scriptural connections",
+    "difficulty": "advanced",
+    "references": [
+      "Luke 1:32-33",
+      "2 Samuel 7:12-16"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|jehu:not-judah",
+    "stem": "Over which kingdom did Elisha's messenger anoint Jehu son of Jehoshaphat son of Nimshi?",
+    "correctAnswer": "Israel",
+    "category": "Kings and succession",
+    "difficulty": "intermediate",
+    "references": [
+      "2 Kings 9:1-3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|judah-early-kings:order",
+    "stem": "Which sequence follows the recorded succession from Solomon through Asa?",
+    "correctAnswer": "Solomon, Rehoboam, Abijah, Asa",
+    "category": "Chronology",
+    "difficulty": "advanced",
+    "references": [
+      "1 Kings 11:43",
+      "1 Kings 14:31",
+      "1 Kings 15:8"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|judah-middle-kings:order",
+    "stem": "Which sequence follows the succession from Hezekiah through Josiah?",
+    "correctAnswer": "Hezekiah, Manasseh, Amon, Josiah",
+    "category": "Chronology",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 20:21",
+      "2 Kings 21:18,26"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|amos",
+    "stem": "Which prophet did Amaziah, the priest of Bethel, tell to flee to Judah?",
+    "correctAnswer": "Amos",
+    "category": "Prophets",
+    "difficulty": "advanced",
+    "references": [
+      "Amos 7:10-14"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|judas",
+    "stem": "How does John 14:22 distinguish the Judas who asked about Jesus manifesting himself to the disciples?",
+    "correctAnswer": "Judas, not Iscariot",
+    "category": "Same-name identities",
+    "difficulty": "advanced",
+    "references": [
+      "John 14:22"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|hosea",
+    "stem": "Which prophet supplies Matthew's statement about calling a son out of Egypt, originally referring to Israel?",
+    "correctAnswer": "Hosea",
+    "category": "Scriptural connections",
+    "difficulty": "mastery",
+    "references": [
+      "Matthew 2:15",
+      "Hosea 11:1"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|sheba",
+    "stem": "Which royal visitor's journey to hear Solomon's wisdom underlies Jesus' reference to the queen of the south?",
+    "correctAnswer": "The queen of Sheba",
+    "category": "Scriptural connections",
+    "difficulty": "advanced",
+    "references": [
+      "Matthew 12:42",
+      "1 Kings 10:1-3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|overlap",
+    "stem": "Which prophet's opening dates his ministry from Josiah's reign, unlike the other three openings that explicitly name Hezekiah?",
+    "correctAnswer": "Jeremiah",
+    "category": "Textual nuance",
+    "difficulty": "mastery",
+    "references": [
+      "Isaiah 1:1",
+      "Micah 1:1",
+      "Hosea 1:1",
+      "Jeremiah 1:2-3"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|jehoiada",
+    "stem": "Which statement distinguishes Jehoiada's end from that of his son Zechariah in 2 Chronicles 24?",
+    "correctAnswer": "Jehoiada died aged 130, and Zechariah was stoned at Joash's command",
+    "category": "Textual nuance",
+    "difficulty": "mastery",
+    "references": [
+      "2 Chronicles 24:15-22"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|obadiah",
+    "stem": "Who both managed Ahab's household and sheltered a hundred prophets from Jezebel?",
+    "correctAnswer": "Obadiah",
+    "category": "Obscure people",
+    "difficulty": "advanced",
+    "references": [
+      "1 Kings 18:3-7"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|conclusion",
+    "stem": "In the recorded line Jesse, David, Solomon, Rehoboam, how many parent-to-child links separate Jesse from Rehoboam?",
+    "correctAnswer": "Three",
+    "category": "Genealogy",
+    "difficulty": "mastery",
+    "references": [
+      "Ruth 4:22",
+      "1 Kings 1:32-34",
+      "1 Kings 11:43"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|elisha-wrong",
+    "stem": "Which event belongs to Elijah's ministry rather than Elisha's in the cited narratives?",
+    "correctAnswer": "Fire consuming the offering on Mount Carmel",
+    "category": "Scriptural connections",
+    "difficulty": "mastery",
+    "references": [
+      "1 Kings 18:36-38",
+      "2 Kings 4:1-7",
+      "2 Kings 5:10-14",
+      "2 Kings 6:5-7"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|zimri",
+    "stem": "Who invoked Zimri's killing of his master while addressing Jehu from a window at Jezreel?",
+    "correctAnswer": "Jezebel",
+    "category": "Textual nuance",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 9:30-31"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|jonah-nineveh",
+    "stem": "Which prophet is linked with Jeroboam son of Joash in Kings and commissioned to go to Nineveh in his own book?",
+    "correctAnswer": "Jonah son of Amittai",
+    "category": "Scriptural connections",
+    "difficulty": "mastery",
+    "references": [
+      "2 Kings 14:23-25",
+      "Jonah 1:1-2"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "A|trio",
+    "stem": "Which king and prophet were involved in the response to the Assyrian threat in 2 Kings 19?",
+    "correctAnswer": "Hezekiah and Isaiah",
+    "category": "Scriptural connections",
+    "difficulty": "advanced",
+    "references": [
+      "2 Kings 19:1-7"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|antipas:john-baptist",
+    "stem": "Which ruler, called the tetrarch in Matthew 14, ordered John the Baptist beheaded?",
+    "correctAnswer": "Herod",
+    "category": "Kings and succession",
+    "difficulty": "advanced",
+    "references": [
+      "Matthew 14:1-11"
+    ],
+    "sourceValidation": []
+  },
+  {
+    "id": "F|agrippa2:paul",
+    "stem": "Which king arrived with Bernice and then heard Paul's defence after Festus became governor?",
+    "correctAnswer": "Agrippa",
+    "category": "Offices and roles",
+    "difficulty": "advanced",
+    "references": [
+      "Acts 25:13-14",
+      "Acts 26:1-3"
+    ],
+    "sourceValidation": []
+  }
+]

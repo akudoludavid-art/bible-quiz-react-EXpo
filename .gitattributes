@@ -1,0 +1,2 @@
+# Preserve original HTML bytes across checkouts; never normalize line endings.
+legacy/*.html -text
